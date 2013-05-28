@@ -1,0 +1,1864 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 9 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Times-Bold
+<< /BaseFont /Times-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:Joon.Ro@phd.mccombs.utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 354.95
+ 647.8839
+ 498.04
+ 663.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://conference.scipy.org/scipy2011/student.php) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 434.8839
+ 105.6929
+ 450.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://conference.scipy.org/scipy2013/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 135.6929
+ 434.8839
+ 210.1229
+ 450.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://faculty.fuqua.duke.edu/econometrics/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 110.6929
+ 368.8839
+ 477.3129
+ 384.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 36 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+9 0 obj
+% Font Times-Italic
+<< /BaseFont /Times-Italic
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://software-carpentry.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 354.5599
+ 451.8839
+ 437.0048
+ 467.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 10 0 R ]
+ /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/joonro/BLP-Python) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 209.8839
+ 135.7029
+ 225.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/joonro/fast-cubic-spline-python) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 171.8839
+ 188.3138
+ 187.8839 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Annots [ 12 0 R
+ 13 0 R ]
+ /Contents 38 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R15': class PDFCatalog 
+15 0 obj
+% Document Root
+<< /Outlines 17 0 R
+ /PageLabels 39 0 R
+ /PageMode /UseNone
+ /Pages 35 0 R
+ /Type /Catalog >>
+endobj
+% 'R16': class PDFInfo 
+16 0 obj
+<< /Author ()
+ /CreationDate (D:20130528004211+06'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Joon H. Ro) >>
+endobj
+% 'R17': class PDFOutlines 
+17 0 obj
+<< /Count 21
+ /First 18 0 R
+ /Last 34 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 609.1339
+ 0 ]
+ /Next 19 0 R
+ /Parent 17 0 R
+ /Title (EDUCATION) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 482.1339
+ 0 ]
+ /Next 20 0 R
+ /Parent 17 0 R
+ /Prev 18 0 R
+ /Title (HONORS & AWARDS) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+20 0 obj
+<< /Count 1
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 267.1339
+ 0 ]
+ /First 21 0 R
+ /Last 21 0 R
+ /Next 22 0 R
+ /Parent 17 0 R
+ /Prev 19 0 R
+ /Title (MANUSCRIPTS) >>
+endobj
+% 'Outline.18.0': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 234.1339
+ 0 ]
+ /Parent 20 0 R
+ /Title (In Preparation) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 100.1339
+ 0 ]
+ /Next 23 0 R
+ /Parent 17 0 R
+ /Prev 20 0 R
+ /Title (Presentations) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+23 0 obj
+<< /Count 3
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 573.1339
+ 0 ]
+ /First 24 0 R
+ /Last 26 0 R
+ /Next 27 0 R
+ /Parent 17 0 R
+ /Prev 22 0 R
+ /Title (TEACHING) >>
+endobj
+% 'Outline.19.0': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 540.1339
+ 0 ]
+ /Next 25 0 R
+ /Parent 23 0 R
+ /Title (Instructor) >>
+endobj
+% 'Outline.19.1': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 422.1339
+ 0 ]
+ /Next 26 0 R
+ /Parent 23 0 R
+ /Prev 24 0 R
+ /Title (Training) >>
+endobj
+% 'Outline.19.2': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 320.1339
+ 0 ]
+ /Parent 23 0 R
+ /Prev 25 0 R
+ /Title (Teaching Assistant) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+27 0 obj
+<< /Count 4
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 196.1339
+ 0 ]
+ /First 28 0 R
+ /Last 31 0 R
+ /Next 32 0 R
+ /Parent 17 0 R
+ /Prev 23 0 R
+ /Title (RELEVANT COURSEWORK) >>
+endobj
+% 'Outline.20.0': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 163.1339
+ 0 ]
+ /Next 29 0 R
+ /Parent 27 0 R
+ /Title (Quantitative Marketing) >>
+endobj
+% 'Outline.20.1': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 687.1339
+ 0 ]
+ /Next 30 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (Economics) >>
+endobj
+% 'Outline.20.2': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 563.1339
+ 0 ]
+ /Next 31 0 R
+ /Parent 27 0 R
+ /Prev 29 0 R
+ /Title (Econometrics) >>
+endobj
+% 'Outline.20.3': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 461.1339
+ 0 ]
+ /Parent 27 0 R
+ /Prev 30 0 R
+ /Title (Operations Research) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+32 0 obj
+<< /Count 1
+ /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 359.1339
+ 0 ]
+ /First 33 0 R
+ /Last 33 0 R
+ /Next 34 0 R
+ /Parent 17 0 R
+ /Prev 27 0 R
+ /Title (COMPUTATIONAL SKILLS) >>
+endobj
+% 'Outline.21.0': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 254.1339
+ 0 ]
+ /Parent 32 0 R
+ /Title (Packages) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 142.1339
+ 0 ]
+ /Parent 17 0 R
+ /Prev 32 0 R
+ /Title (REFERENCES) >>
+endobj
+% 'R35': class PDFPages 
+35 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 8 0 R
+ 11 0 R
+ 14 0 R ]
+ /Type /Pages >>
+endobj
+% 'R36': class PDFStream 
+36 0 obj
+% page stream
+<< /Length 7457 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 195.2471 0 Td (Joon H. Ro) Tj T* -195.2471 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.1339 cm
+q
+BT 1 0 0 1 0 6 Tm 67.62709 0 Td 16 TL /F1 10 Tf 0 0 0 rg (Department of Marketing, McCombs School of Business, University of Texas at Austin) Tj T* -67.62709 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 643.1339 cm
+q
+BT 1 0 0 1 0 6 Tm 51.26709 0 Td 16 TL /F1 10 Tf 0 0 0 rg (Phone: +1 \(512\) 529-4596, Fax: +1 \(512\) 471-1034, Email: ) Tj 0 0 .501961 rg (Joon.Ro@phd.mccombs.utexas.edu) Tj T* -51.26709 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 192.2071 0 Td (\(Updated on 2013-05-28\)) Tj T* -192.2071 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.1339 cm
+Q
+q
+1 0 0 1 62.69291 576.1339 cm
+Q
+q
+1 0 0 1 62.69291 560.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2014, \(Expected\) Ph.D. Marketing, University of Texas at Austin, Austin, TX) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 554.1339 cm
+Q
+q
+1 0 0 1 62.69291 538.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2009, M.S. Economics, University of Texas at Austin, Austin, TX) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 532.1339 cm
+Q
+q
+1 0 0 1 62.69291 516.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2007, M.A. Economics, Sogang University, Seoul, Republic of Korea) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 510.1339 cm
+Q
+q
+1 0 0 1 62.69291 494.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2005, B.A. Economics and English Language and Literature, Sogang University, Seoul, Republic of Korea) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 494.1339 cm
+Q
+q
+1 0 0 1 62.69291 461.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (HONORS & AWARDS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.1339 cm
+Q
+q
+1 0 0 1 62.69291 449.1339 cm
+Q
+q
+1 0 0 1 62.69291 433.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 .501961 rg (2011) Tj 0 0 0 rg (, 2013, ) Tj 0 0 .501961 rg (SciPy Conference ) Tj 0 0 0 rg (Student Sponsorship) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 427.1339 cm
+Q
+q
+1 0 0 1 62.69291 411.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2010, 2013, Bonham Funds, Department of Marketing, University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 405.1339 cm
+Q
+q
+1 0 0 1 62.69291 389.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2013, Nominated for Fred Moore Assistant Instructor Awards for Teaching Excellence) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 383.1339 cm
+Q
+q
+1 0 0 1 62.69291 367.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (2010, ) Tj 0 0 .501961 rg (Columbia-Duke-UCLA Workshop on Quantitative Marketing and Structural Econometrics ) Tj 0 0 0 rg (Funding) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 361.1339 cm
+Q
+q
+1 0 0 1 62.69291 345.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2006, Brain Korea 21 Scholarship, Sogang University) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 339.1339 cm
+Q
+q
+1 0 0 1 62.69291 323.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2005, Graduate School Department Scholarship, Sogang University) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 317.1339 cm
+Q
+q
+1 0 0 1 62.69291 301.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2005, Unbong Scholarship Foundation Scholarship, Korea) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 295.1339 cm
+Q
+q
+1 0 0 1 62.69291 279.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2003-2004, Undergraduate Distinguished Student Scholarship, Sogang University) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 279.1339 cm
+Q
+q
+1 0 0 1 62.69291 246.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (MANUSCRIPTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (In Preparation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.1339 cm
+Q
+q
+1 0 0 1 62.69291 204.1339 cm
+Q
+q
+1 0 0 1 62.69291 172.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm 1.282598 Tw 16 TL /F1 10 Tf 0 0 0 rg (Ro, J. H., & Duan, J. A. "A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and) Tj T* 0 Tw (Durability Extension for Video Games") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 166.1339 cm
+Q
+q
+1 0 0 1 62.69291 134.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm 1.735232 Tw 16 TL /F1 10 Tf 0 0 0 rg (Ro, J. H., & Khan, R. "Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie) Tj T* 0 Tw (Industry") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 128.1339 cm
+Q
+q
+1 0 0 1 62.69291 112.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL ( ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 112.1339 cm
+Q
+q
+1 0 0 1 62.69291 79.13386 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Presentations) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 7122 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 709.1339 cm
+Q
+q
+1 0 0 1 62.69291 709.1339 cm
+Q
+q
+1 0 0 1 62.69291 661.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 29 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .563775 Tw 16 TL /F1 10 Tf 0 0 0 rg (Ro, J. H., & Duan, J. A. \(2012\) "A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing) Tj T* 0 Tw .951859 Tw (and Durability Extension for Video Games," Paper presentation at annual INFORMS Marketing Science Society) Tj T* 0 Tw (Conference, Boston, MA) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 655.1339 cm
+Q
+q
+1 0 0 1 62.69291 623.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm .208565 Tw 16 TL /F1 10 Tf 0 0 0 rg (Ro, J. H., & Duan, J. A. \(2012\) "A Dynamic Equilibrium Model of Durable Goods Market: Intertem- poral Pricing) Tj T* 0 Tw (and Durability Extension for Video Games," Paper presentation at the University of Houston Doctoral Symposium) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 617.1339 cm
+Q
+q
+1 0 0 1 62.69291 585.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm .109167 Tw 16 TL /F1 10 Tf 0 0 0 rg (Ro, J. H., & Khan, R. \(2011\) "Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie) Tj T* 0 Tw (Industry," Paper presentation at annual INFORMS Marketing Science Society Conference, Houston, TX) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.1339 cm
+Q
+q
+1 0 0 1 62.69291 552.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (TEACHING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Instructor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.1339 cm
+Q
+q
+1 0 0 1 62.69291 510.1339 cm
+Q
+q
+1 0 0 1 62.69291 472.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2012, Principles of Marketing, University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13 cm
+Q
+q
+1 0 0 1 23 13 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Nominated for Fred Moore Assistant Instructor Awards for Teaching Excellence) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+Q
+q
+1 0 0 1 62.69291 434.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm .677441 Tw 16 TL /F1 10 Tf 0 0 0 rg (2012, Instructor for ) Tj /F3 10 Tf (Numerical Computation with Numpy ) Tj /F1 10 Tf (at 2012 ) Tj 0 0 .501961 rg (Software Carpentry ) Tj 0 0 0 rg (Bootcamp at the University) Tj T* 0 Tw (of Texas at Austin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 434.1339 cm
+Q
+q
+1 0 0 1 62.69291 404.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Training) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.1339 cm
+Q
+q
+1 0 0 1 62.69291 392.1339 cm
+Q
+q
+1 0 0 1 62.69291 376.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2013, Software Carpentry Instructors Study Group) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 370.1339 cm
+Q
+q
+1 0 0 1 62.69291 354.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2012, Graduate Teaching Scholars Seminar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 348.1339 cm
+Q
+q
+1 0 0 1 62.69291 332.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2012, Supervised Teaching) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 332.1339 cm
+Q
+q
+1 0 0 1 62.69291 302.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Teaching Assistant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 290.1339 cm
+Q
+q
+1 0 0 1 62.69291 290.1339 cm
+Q
+q
+1 0 0 1 62.69291 208.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 41 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Bayesian Econometrics \(Graduate\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 35 cm
+Q
+q
+1 0 0 1 23 19 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Principles of Marketing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 13 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Marketing Information and Analysis) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 208.1339 cm
+Q
+q
+1 0 0 1 62.69291 175.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (RELEVANT COURSEWORK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 145.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Quantitative Marketing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 133.1339 cm
+Q
+q
+1 0 0 1 62.69291 133.1339 cm
+Q
+q
+1 0 0 1 62.69291 117.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (Marketing Models I & II) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 111.1339 cm
+Q
+q
+1 0 0 1 62.69291 95.13386 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Marketing Research Methods) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 89.13386 cm
+Q
+ 
+endstream
+endobj
+% 'R38': class PDFStream 
+38 0 obj
+% page stream
+<< /Length 6856 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 699.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (2010 Columbia-Duke-UCLA Workshop on Quantitative Marketing and Structural Econometrics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.1339 cm
+Q
+q
+1 0 0 1 62.69291 669.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Economics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.1339 cm
+Q
+q
+1 0 0 1 62.69291 657.1339 cm
+Q
+q
+1 0 0 1 62.69291 641.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (Microeconomics I & II) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 635.1339 cm
+Q
+q
+1 0 0 1 62.69291 619.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (Macroeconomics I & II) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 613.1339 cm
+Q
+q
+1 0 0 1 62.69291 597.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (Industrial Organization I & II) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 591.1339 cm
+Q
+q
+1 0 0 1 62.69291 575.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Computational Economics I) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 575.1339 cm
+Q
+q
+1 0 0 1 62.69291 545.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Econometrics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.1339 cm
+Q
+q
+1 0 0 1 62.69291 533.1339 cm
+Q
+q
+1 0 0 1 62.69291 517.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (Econometrics I, II, & III) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 511.1339 cm
+Q
+q
+1 0 0 1 62.69291 495.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Bayesian Econometrics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.1339 cm
+Q
+q
+1 0 0 1 62.69291 473.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Discrete Choice Theory and Modeling) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 473.1339 cm
+Q
+q
+1 0 0 1 62.69291 443.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Operations Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.1339 cm
+Q
+q
+1 0 0 1 62.69291 431.1339 cm
+Q
+q
+1 0 0 1 62.69291 415.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Applied Stochastic Processes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 409.1339 cm
+Q
+q
+1 0 0 1 62.69291 393.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Markov Decision Processes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.1339 cm
+Q
+q
+1 0 0 1 62.69291 371.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Stochastic Optimization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 371.1339 cm
+Q
+q
+1 0 0 1 62.69291 338.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (COMPUTATIONAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.1339 cm
+Q
+q
+1 0 0 1 62.69291 326.1339 cm
+Q
+q
+1 0 0 1 62.69291 310.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (General-Purpose Languages: C, Python) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 304.1339 cm
+Q
+q
+1 0 0 1 62.69291 288.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Numerical Programming Languages: Gauss, MATLAB, R) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 282.1339 cm
+Q
+q
+1 0 0 1 62.69291 266.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL (Others: Git, GNU/Linux, HTML, JavaScript, LaTeX, RegEx, VBA) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 266.1339 cm
+Q
+q
+1 0 0 1 62.69291 236.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 224.1339 cm
+Q
+q
+1 0 0 1 62.69291 224.1339 cm
+Q
+q
+1 0 0 1 62.69291 192.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm .993155 Tw 16 TL /F1 10 Tf 0 0 .501961 rg (BLP-Python) Tj 0 0 0 rg (: a Python with Cython implementation of random coefficients logit model of Berry, Levinsohn and) Tj T* 0 Tw (Pakes \(1995\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 186.1339 cm
+Q
+q
+1 0 0 1 62.69291 154.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 10 Tf 16 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 22 Tm .220298 Tw 16 TL /F1 10 Tf 0 0 .501961 rg (Fast Cubic Spline Python) Tj 0 0 0 rg (: an implementation of fast spline interpolation algorithm of Habermann and Kindermann) Tj T* 0 Tw (\(2007\) in Python with Cython.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 154.1339 cm
+Q
+q
+1 0 0 1 62.69291 121.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (REFERENCES) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R39': class PDFPageLabels 
+39 0 obj
+% Document Root
+<< /Nums [ 0
+ 40 0 R
+ 1
+ 41 0 R
+ 2
+ 42 0 R ] >>
+endobj
+% 'R40': class PDFPageLabel 
+40 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R41': class PDFPageLabel 
+41 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R42': class PDFPageLabel 
+42 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 43
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000402 00000 n
+0000000581 00000 n
+0000000832 00000 n
+0000001099 00000 n
+0000001355 00000 n
+0000001603 00000 n
+0000001918 00000 n
+0000002101 00000 n
+0000002336 00000 n
+0000002641 00000 n
+0000002896 00000 n
+0000003151 00000 n
+0000003452 00000 n
+0000003611 00000 n
+0000003869 00000 n
+0000003995 00000 n
+0000004164 00000 n
+0000004354 00000 n
+0000004585 00000 n
+0000004744 00000 n
+0000004932 00000 n
+0000005161 00000 n
+0000005335 00000 n
+0000005522 00000 n
+0000005701 00000 n
+0000005941 00000 n
+0000006127 00000 n
+0000006315 00000 n
+0000006506 00000 n
+0000006686 00000 n
+0000006927 00000 n
+0000007081 00000 n
+0000007236 00000 n
+0000007361 00000 n
+0000014917 00000 n
+0000022138 00000 n
+0000029097 00000 n
+0000029216 00000 n
+0000029293 00000 n
+0000029370 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\273\316\372\356N\266=\212\312VS\226\014\266\021\364) (\273\316\372\356N\266=\212\312VS\226\014\266\021\364)] 
+
+ /Info 16 0 R
+ /Root 15 0 R
+ /Size 43 >>
+startxref
+29417
+%%EOF
