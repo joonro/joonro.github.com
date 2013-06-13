@@ -92,12 +92,12 @@ endobj
  5 0 R
  6 0 R
  7 0 R ]
- /Contents 41 0 R
+ /Contents 46 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 40 0 R
+ /Parent 45 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -111,12 +111,12 @@ endobj
 % 'Page2': class PDFPage 
 9 0 obj
 % Page dictionary
-<< /Contents 42 0 R
+<< /Contents 47 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 40 0 R
+ /Parent 45 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -187,12 +187,12 @@ endobj
 << /Annots [ 10 0 R
  11 0 R
  13 0 R ]
- /Contents 43 0 R
+ /Contents 48 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 40 0 R
+ /Parent 45 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -206,12 +206,12 @@ endobj
 % 'Page4': class PDFPage 
 15 0 obj
 % Page dictionary
-<< /Contents 44 0 R
+<< /Contents 49 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 40 0 R
+ /Parent 45 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -221,16 +221,96 @@ endobj
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:Jun.Duan@mccombs.utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 234.181
+ 554.5924
+ 377.819
+ 566.5924 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:leigh.mcalister@mccombs.utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 222.5705
+ 446.5924
+ 389.4295
+ 458.5924 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:ty.henderson@mccombs.utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 226.8495
+ 338.5924
+ 385.1505
+ 350.5924 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:Raghunath.Rao@mccombs.utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 221.0415
+ 230.5924
+ 390.9585
+ 242.5924 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:sryan@utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 265.652
+ 140.5924
+ 346.348
+ 152.5924 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 % 'Page5': class PDFPage 
-16 0 obj
+21 0 obj
 % Page dictionary
-<< /Contents 45 0 R
+<< /Annots [ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R ]
+ /Contents 50 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 40 0 R
+ /Parent 45 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -241,287 +321,287 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R17': class PDFCatalog 
-17 0 obj
+% 'R22': class PDFCatalog 
+22 0 obj
 % Document Root
-<< /Outlines 19 0 R
- /PageLabels 46 0 R
+<< /Outlines 24 0 R
+ /PageLabels 51 0 R
  /PageMode /UseNone
- /Pages 40 0 R
+ /Pages 45 0 R
  /Type /Catalog >>
 endobj
-% 'R18': class PDFInfo 
-18 0 obj
+% 'R23': class PDFInfo 
+23 0 obj
 << /Author ()
- /CreationDate (D:20130609222836+06'00')
+ /CreationDate (D:20130612005323+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Joon H. Ro) >>
 endobj
-% 'R19': class PDFOutlines 
-19 0 obj
+% 'R24': class PDFOutlines 
+24 0 obj
 << /Count 24
- /First 20 0 R
- /Last 39 0 R
+ /First 25 0 R
+ /Last 44 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-20 0 obj
+25 0 obj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
  590.3874
  0 ]
- /Next 21 0 R
- /Parent 19 0 R
+ /Next 26 0 R
+ /Parent 24 0 R
  /Title (Education) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-21 0 obj
+26 0 obj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
  442.2209
  0 ]
- /Next 22 0 R
- /Parent 19 0 R
- /Prev 20 0 R
+ /Next 27 0 R
+ /Parent 24 0 R
+ /Prev 25 0 R
  /Title (Honors & Awards) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-22 0 obj
+27 0 obj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
  222.0545
  0 ]
- /Next 23 0 R
- /Parent 19 0 R
- /Prev 21 0 R
+ /Next 28 0 R
+ /Parent 24 0 R
+ /Prev 26 0 R
  /Title (Research Interest) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-23 0 obj
+28 0 obj
 << /Count 2
  /Dest [ 9 0 R
  /XYZ
  62.69291
  715.1339
  0 ]
- /First 24 0 R
- /Last 25 0 R
- /Next 26 0 R
- /Parent 19 0 R
- /Prev 22 0 R
+ /First 29 0 R
+ /Last 30 0 R
+ /Next 31 0 R
+ /Parent 24 0 R
+ /Prev 27 0 R
  /Title (Working Paper) >>
 endobj
 % 'Outline.21.0': class OutlineEntryObject 
-24 0 obj
+29 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  685.3139
  0 ]
- /Next 25 0 R
- /Parent 23 0 R
+ /Next 30 0 R
+ /Parent 28 0 R
  /Title (A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Secondary Market) >>
 endobj
 % 'Outline.21.1': class OutlineEntryObject 
-25 0 obj
+30 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  498.9539
  0 ]
- /Parent 23 0 R
- /Prev 24 0 R
+ /Parent 28 0 R
+ /Prev 29 0 R
  /Title (Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie Industry) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-26 0 obj
+31 0 obj
 << /Count 2
  /Dest [ 9 0 R
  /XYZ
  62.69291
  264.5939
  0 ]
- /First 27 0 R
- /Last 28 0 R
- /Next 29 0 R
- /Parent 19 0 R
- /Prev 23 0 R
+ /First 32 0 R
+ /Last 33 0 R
+ /Next 34 0 R
+ /Parent 24 0 R
+ /Prev 28 0 R
  /Title (Work In Progress) >>
 endobj
 % 'Outline.22.0': class OutlineEntryObject 
-27 0 obj
+32 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  234.7739
  0 ]
- /Next 28 0 R
- /Parent 26 0 R
+ /Next 33 0 R
+ /Parent 31 0 R
  /Title (A Model of Downloadable Contents: Add-on and Secondary Market) >>
 endobj
 % 'Outline.22.1': class OutlineEntryObject 
-28 0 obj
+33 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  715.1339
  0 ]
- /Parent 26 0 R
- /Prev 27 0 R
+ /Parent 31 0 R
+ /Prev 32 0 R
  /Title (Measuring Benefits from Bilateral Free Trade Agreement: A Dynamic Structural Approach) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-29 0 obj
+34 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  542.4274
  0 ]
- /Next 30 0 R
- /Parent 19 0 R
- /Prev 26 0 R
+ /Next 35 0 R
+ /Parent 24 0 R
+ /Prev 31 0 R
  /Title (Software Packages Authored) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-30 0 obj
+35 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  418.2609
  0 ]
- /Next 31 0 R
- /Parent 19 0 R
- /Prev 29 0 R
+ /Next 36 0 R
+ /Parent 24 0 R
+ /Prev 34 0 R
  /Title (Colloquia/Presentations) >>
 endobj
 % 'Outline.7': class OutlineEntryObject 
-31 0 obj
+36 0 obj
 << /Count 3
  /Dest [ 14 0 R
  /XYZ
  62.69291
  228.0945
  0 ]
- /First 32 0 R
- /Last 34 0 R
- /Next 35 0 R
- /Parent 19 0 R
- /Prev 30 0 R
+ /First 37 0 R
+ /Last 39 0 R
+ /Next 40 0 R
+ /Parent 24 0 R
+ /Prev 35 0 R
  /Title (Teaching) >>
 endobj
 % 'Outline.23.0': class OutlineEntryObject 
-32 0 obj
+37 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  198.2745
  0 ]
- /Next 33 0 R
- /Parent 31 0 R
+ /Next 38 0 R
+ /Parent 36 0 R
  /Title (Instructor) >>
 endobj
 % 'Outline.23.1': class OutlineEntryObject 
-33 0 obj
+38 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  99.09449
  0 ]
- /Next 34 0 R
- /Parent 31 0 R
- /Prev 32 0 R
+ /Next 39 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
  /Title (Training) >>
 endobj
 % 'Outline.23.2': class OutlineEntryObject 
-34 0 obj
+39 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  655.1339
  0 ]
- /Parent 31 0 R
- /Prev 33 0 R
+ /Parent 36 0 R
+ /Prev 38 0 R
  /Title (Teaching Assistant) >>
 endobj
 % 'Outline.8': class OutlineEntryObject 
-35 0 obj
+40 0 obj
 << /Count 2
  /Dest [ 15 0 R
  /XYZ
  62.69291
  521.6074
  0 ]
- /First 36 0 R
- /Last 37 0 R
- /Next 38 0 R
- /Parent 19 0 R
- /Prev 31 0 R
+ /First 41 0 R
+ /Last 42 0 R
+ /Next 43 0 R
+ /Parent 24 0 R
+ /Prev 36 0 R
  /Title (Relevant Coursework) >>
 endobj
 % 'Outline.24.0': class OutlineEntryObject 
-36 0 obj
+41 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  491.7874
  0 ]
- /Next 37 0 R
- /Parent 35 0 R
+ /Next 42 0 R
+ /Parent 40 0 R
  /Title (Quantitative Marketing) >>
 endobj
 % 'Outline.24.1': class OutlineEntryObject 
-37 0 obj
+42 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  404.6074
  0 ]
- /Parent 35 0 R
- /Prev 36 0 R
+ /Parent 40 0 R
+ /Prev 41 0 R
  /Title (Other Fields) >>
 endobj
 % 'Outline.9': class OutlineEntryObject 
-38 0 obj
+43 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  163.0809
  0 ]
- /Next 39 0 R
- /Parent 19 0 R
- /Prev 35 0 R
+ /Next 44 0 R
+ /Parent 24 0 R
+ /Prev 40 0 R
  /Title (Computational Skills) >>
 endobj
 % 'Outline.10': class OutlineEntryObject 
-39 0 obj
-<< /Dest [ 16 0 R
+44 0 obj
+<< /Dest [ 21 0 R
  /XYZ
  62.69291
  674.7874
  0 ]
- /Parent 19 0 R
- /Prev 38 0 R
+ /Parent 24 0 R
+ /Prev 43 0 R
  /Title (References) >>
 endobj
-% 'R40': class PDFPages 
-40 0 obj
+% 'R45': class PDFPages 
+45 0 obj
 % page tree
 << /Count 5
  /Kids [ 8 0 R
  9 0 R
  14 0 R
  15 0 R
- 16 0 R ]
+ 21 0 R ]
  /Type /Pages >>
 endobj
-% 'R41': class PDFStream 
-41 0 obj
+% 'R46': class PDFStream 
+46 0 obj
 % page stream
 << /Length 6850 >>
 stream
@@ -549,7 +629,7 @@ q
 1 0 0 1 62.69291 630.7339 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 187.0971 0 Td (\(Updated on 2013-06-09\)) Tj T* -187.0971 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 187.0971 0 Td (\(Updated on 2013-06-12\)) Tj T* -187.0971 0 Td ET
 Q
 Q
 q
@@ -917,8 +997,8 @@ Q
  
 endstream
 endobj
-% 'R42': class PDFStream 
-42 0 obj
+% 'R47': class PDFStream 
+47 0 obj
 % page stream
 << /Length 5406 >>
 stream
@@ -991,8 +1071,8 @@ Q
  
 endstream
 endobj
-% 'R43': class PDFStream 
-43 0 obj
+% 'R48': class PDFStream 
+48 0 obj
 % page stream
 << /Length 6473 >>
 stream
@@ -1268,8 +1348,8 @@ Q
  
 endstream
 endobj
-% 'R44': class PDFStream 
-44 0 obj
+% 'R49': class PDFStream 
+49 0 obj
 % page stream
 << /Length 9175 >>
 stream
@@ -1907,10 +1987,10 @@ Q
  
 endstream
 endobj
-% 'R45': class PDFStream 
-45 0 obj
+% 'R50': class PDFStream 
+50 0 obj
 % page stream
-<< /Length 235 >>
+<< /Length 4612 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1923,55 +2003,262 @@ q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
+q
+1 0 0 1 62.69291 644.9674 cm
+Q
+q
+1 0 0 1 62.69291 626.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 215.6476 0 Td (Jason Duan) Tj T* -215.6476 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 170.7456 0 Td (Assistant Professor of Marketing) Tj T* -170.7456 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.9674 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 171.4881 0 Td (Jun.Duan@mccombs.utexas.edu) Tj T* -171.4881 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 536.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 204.9666 0 Td (Leigh McAlister) Tj T* -204.9666 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 192.2891 0 Td (Professor of Marketing) Tj T* -192.2891 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.9674 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.8776 0 Td (leigh.mcalister@mccombs.utexas.edu) Tj T* -159.8776 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 428.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 209.8451 0 Td (Ty Henderson) Tj T* -209.8451 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 170.7456 0 Td (Assistant Professor of Marketing) Tj T* -170.7456 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 374.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.9674 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 164.1566 0 Td (ty.henderson@mccombs.utexas.edu) Tj T* -164.1566 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 320.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 302.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 200.3686 0 Td (Raghunath S. Rao) Tj T* -200.3686 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 170.7456 0 Td (Assistant Professor of Marketing) Tj T* -170.7456 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 248.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 230.9674 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 158.3486 0 Td (Raghunath.Rao@mccombs.utexas.edu) Tj T* -158.3486 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 194.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 204.3451 0 Td (Stephen P. Ryan) Tj T* -204.3451 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 168.0011 0 Td (Associate Professor of Economics) Tj T* -168.0011 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.9674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 140.9674 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 202.9591 0 Td (sryan@utexas.edu) Tj T* -202.9591 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 140.9674 cm
+Q
  
 endstream
 endobj
-% 'R46': class PDFPageLabels 
-46 0 obj
+% 'R51': class PDFPageLabels 
+51 0 obj
 % Document Root
 << /Nums [ 0
- 47 0 R
+ 52 0 R
  1
- 48 0 R
+ 53 0 R
  2
- 49 0 R
+ 54 0 R
  3
- 50 0 R
+ 55 0 R
  4
- 51 0 R ] >>
+ 56 0 R ] >>
 endobj
-% 'R47': class PDFPageLabel 
-47 0 obj
+% 'R52': class PDFPageLabel 
+52 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R48': class PDFPageLabel 
-48 0 obj
+% 'R53': class PDFPageLabel 
+53 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R49': class PDFPageLabel 
-49 0 obj
+% 'R54': class PDFPageLabel 
+54 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
-% 'R50': class PDFPageLabel 
-50 0 obj
+% 'R55': class PDFPageLabel 
+55 0 obj
 % None
 << /S /D
  /St 4 >>
 endobj
-% 'R51': class PDFPageLabel 
-51 0 obj
+% 'R56': class PDFPageLabel 
+56 0 obj
 % None
 << /S /D
  /St 5 >>
 endobj
 xref
-0 52
+0 57
 0000000000 65535 f
 0000000113 00000 n
 0000000234 00000 n
@@ -1988,50 +2275,55 @@ xref
 0000002898 00000 n
 0000003133 00000 n
 0000003442 00000 n
-0000003712 00000 n
-0000003983 00000 n
-0000004142 00000 n
-0000004400 00000 n
-0000004526 00000 n
-0000004695 00000 n
-0000004885 00000 n
-0000005077 00000 n
-0000005310 00000 n
-0000005568 00000 n
-0000005819 00000 n
-0000006055 00000 n
-0000006279 00000 n
-0000006525 00000 n
-0000006727 00000 n
-0000006926 00000 n
-0000007155 00000 n
-0000007329 00000 n
-0000007516 00000 n
-0000007695 00000 n
-0000007935 00000 n
-0000008121 00000 n
-0000008294 00000 n
-0000008491 00000 n
-0000008646 00000 n
-0000008788 00000 n
-0000015737 00000 n
-0000021242 00000 n
-0000027814 00000 n
-0000037088 00000 n
-0000037425 00000 n
-0000037570 00000 n
-0000037647 00000 n
-0000037724 00000 n
-0000037801 00000 n
-0000037878 00000 n
+0000003726 00000 n
+0000003977 00000 n
+0000004238 00000 n
+0000004496 00000 n
+0000004755 00000 n
+0000004981 00000 n
+0000005309 00000 n
+0000005468 00000 n
+0000005726 00000 n
+0000005852 00000 n
+0000006021 00000 n
+0000006211 00000 n
+0000006403 00000 n
+0000006636 00000 n
+0000006894 00000 n
+0000007145 00000 n
+0000007381 00000 n
+0000007605 00000 n
+0000007851 00000 n
+0000008053 00000 n
+0000008252 00000 n
+0000008481 00000 n
+0000008655 00000 n
+0000008842 00000 n
+0000009021 00000 n
+0000009261 00000 n
+0000009447 00000 n
+0000009620 00000 n
+0000009817 00000 n
+0000009972 00000 n
+0000010114 00000 n
+0000017063 00000 n
+0000022568 00000 n
+0000029140 00000 n
+0000038414 00000 n
+0000043129 00000 n
+0000043274 00000 n
+0000043351 00000 n
+0000043428 00000 n
+0000043505 00000 n
+0000043582 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\254|\3077hYD\213\210>\245\304\263NZ\353) (\254|\3077hYD\213\210>\245\304\263NZ\353)] 
+ [(\230Tn[\377*\037W.\276\363\207\362\002\027\343) (\230Tn[\377*\037W.\276\363\207\362\002\027\343)] 
 
- /Info 18 0 R
- /Root 17 0 R
- /Size 52 >>
+ /Info 23 0 R
+ /Root 22 0 R
+ /Size 57 >>
 startxref
-37925
+43629
 %%EOF
