@@ -44,12 +44,12 @@ endobj
 5 0 obj
 % Page dictionary
 << /Annots [ 4 0 R ]
- /Contents 46 0 R
+ /Contents 49 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 45 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -69,9 +69,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 170.2324
+ 115.8724
  107.6929
- 182.2324 ]
+ 127.8724 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -84,39 +84,23 @@ endobj
  0
  0 ]
  /Rect [ 140.6929
- 170.2324
+ 115.8724
  222.5659
- 182.2324 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://faculty.fuqua.duke.edu/econometrics/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 117.6407
- 116.2324
- 544.8593
- 128.2324 ]
+ 127.8724 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-9 0 obj
+8 0 obj
 % Page dictionary
 << /Annots [ 6 0 R
- 7 0 R
- 8 0 R ]
- /Contents 47 0 R
+ 7 0 R ]
+ /Contents 50 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 45 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -127,6 +111,21 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://faculty.fuqua.duke.edu/econometrics/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 117.6407
+ 699.7589
+ 544.8593
+ 711.7589 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
 % 'Annot.NUMBER5': class PDFDictionary 
 10 0 obj
 << /A << /S /URI
@@ -136,9 +135,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 581.5924
+ 533.5924
  140.7039
- 593.5924 ]
+ 545.5924 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -151,9 +150,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 551.5924
+ 503.5924
  201.2574
- 563.5924 ]
+ 515.5924 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -175,24 +174,25 @@ endobj
  0
  0 ]
  /Rect [ 383.9221
- 158.8995
+ 110.8995
  475.1616
- 170.8995 ]
+ 122.8995 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
 14 0 obj
 % Page dictionary
-<< /Annots [ 10 0 R
+<< /Annots [ 9 0 R
+ 10 0 R
  11 0 R
  13 0 R ]
- /Contents 48 0 R
+ /Contents 51 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 45 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -206,12 +206,12 @@ endobj
 % 'Page4': class PDFPage 
 15 0 obj
 % Page dictionary
-<< /Contents 49 0 R
+<< /Contents 52 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 45 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -230,10 +230,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 234.181
- 576.9389
- 377.819
- 588.9389 ]
+ /Rect [ 68.69291
+ 370.2459
+ 261.5831
+ 382.2459 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -245,10 +245,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 222.5705
- 450.9389
- 389.4295
- 462.9389 ]
+ /Rect [ 273.5831
+ 370.2459
+ 543.3071
+ 382.2459 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -260,10 +260,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 226.8495
- 324.9389
- 385.1505
- 336.9389 ]
+ /Rect [ 68.69291
+ 286.2459
+ 261.5831
+ 298.2459 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -275,26 +275,42 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 221.0415
- 198.9389
- 390.9585
- 210.9389 ]
+ /Rect [ 273.5831
+ 286.2459
+ 543.3071
+ 298.2459 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:sryan@utexas.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 68.69291
+ 214.2459
+ 261.5831
+ 226.2459 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page5': class PDFPage 
-20 0 obj
+21 0 obj
 % Page dictionary
 << /Annots [ 16 0 R
  17 0 R
  18 0 R
- 19 0 R ]
- /Contents 50 0 R
+ 19 0 R
+ 20 0 R ]
+ /Contents 53 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 45 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -305,301 +321,325 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R21': class PDFCatalog 
-21 0 obj
+% 'R22': class PDFCatalog 
+22 0 obj
 % Document Root
-<< /Outlines 23 0 R
- /PageLabels 51 0 R
+<< /Outlines 24 0 R
+ /PageLabels 54 0 R
  /PageMode /UseNone
- /Pages 45 0 R
+ /Pages 48 0 R
  /Type /Catalog >>
 endobj
-% 'R22': class PDFInfo 
-22 0 obj
+% 'R23': class PDFInfo 
+23 0 obj
 << /Author ()
- /CreationDate (D:20130615234929+06'00')
+ /CreationDate (D:20130629211326+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Joon H. Ro) >>
 endobj
-% 'R23': class PDFOutlines 
-23 0 obj
-<< /Count 25
- /First 24 0 R
- /Last 44 0 R
+% 'R24': class PDFOutlines 
+24 0 obj
+<< /Count 27
+ /First 25 0 R
+ /Last 47 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-24 0 obj
+25 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  590.3874
  0 ]
- /Next 25 0 R
- /Parent 23 0 R
+ /Next 26 0 R
+ /Parent 24 0 R
  /Title (Education) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-25 0 obj
+26 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
- 454.2209
+ 424.2209
  0 ]
- /Next 26 0 R
- /Parent 23 0 R
- /Prev 24 0 R
+ /Next 27 0 R
+ /Parent 24 0 R
+ /Prev 25 0 R
  /Title (Research Interest) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-26 0 obj
+27 0 obj
 << /Count 2
  /Dest [ 5 0 R
  /XYZ
  62.69291
- 360.0545
+ 336.0545
  0 ]
- /First 27 0 R
- /Last 28 0 R
- /Next 29 0 R
- /Parent 23 0 R
- /Prev 25 0 R
- /Title (Working Paper) >>
+ /First 28 0 R
+ /Last 29 0 R
+ /Next 30 0 R
+ /Parent 24 0 R
+ /Prev 26 0 R
+ /Title (Working Papers) >>
 endobj
-% 'Outline.22.0': class OutlineEntryObject 
-27 0 obj
-<< /Dest [ 5 0 R
- /XYZ
- 62.69291
- 330.2345
- 0 ]
- /Next 28 0 R
- /Parent 26 0 R
- /Title (A Dynamic Equilibrium Model of Durable Goods: Pricing and Resale Market Strategies for Video Games) >>
-endobj
-% 'Outline.22.1': class OutlineEntryObject 
+% 'Outline.24.0': class OutlineEntryObject 
 28 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
- 143.8745
+ 306.2345
  0 ]
- /Parent 26 0 R
- /Prev 27 0 R
- /Title (Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie Industry) >>
-endobj
-% 'Outline.3': class OutlineEntryObject 
-29 0 obj
-<< /Count 2
- /Dest [ 9 0 R
- /XYZ
- 62.69291
- 535.1339
- 0 ]
- /First 30 0 R
- /Last 31 0 R
- /Next 32 0 R
- /Parent 23 0 R
- /Prev 26 0 R
- /Title (Work In Progress) >>
-endobj
-% 'Outline.23.0': class OutlineEntryObject 
-30 0 obj
-<< /Dest [ 9 0 R
- /XYZ
- 62.69291
- 505.3139
- 0 ]
- /Next 31 0 R
- /Parent 29 0 R
- /Title (A Model of Downloadable Contents: Add-on and Secondary Market) >>
-endobj
-% 'Outline.23.1': class OutlineEntryObject 
-31 0 obj
-<< /Dest [ 9 0 R
- /XYZ
- 62.69291
- 388.1339
- 0 ]
- /Parent 29 0 R
- /Prev 30 0 R
- /Title (Measuring Benefits from Bilateral Free Trade Agreement: A Dynamic Structural Approach) >>
-endobj
-% 'Outline.4': class OutlineEntryObject 
-32 0 obj
-<< /Dest [ 9 0 R
- /XYZ
- 62.69291
- 215.4274
- 0 ]
- /Next 33 0 R
- /Parent 23 0 R
- /Prev 29 0 R
- /Title (Honors & Awards) >>
-endobj
-% 'Outline.5': class OutlineEntryObject 
-33 0 obj
-<< /Dest [ 14 0 R
- /XYZ
- 62.69291
- 626.7874
- 0 ]
- /Next 34 0 R
- /Parent 23 0 R
- /Prev 32 0 R
- /Title (Software Packages Authored) >>
-endobj
-% 'Outline.6': class OutlineEntryObject 
-34 0 obj
-<< /Dest [ 14 0 R
- /XYZ
- 62.69291
- 502.6209
- 0 ]
- /Next 35 0 R
- /Parent 23 0 R
- /Prev 33 0 R
- /Title (Colloquia/Presentations) >>
-endobj
-% 'Outline.7': class OutlineEntryObject 
-35 0 obj
-<< /Count 4
- /Dest [ 14 0 R
- /XYZ
- 62.69291
- 312.4545
- 0 ]
- /First 36 0 R
- /Last 39 0 R
- /Next 40 0 R
- /Parent 23 0 R
- /Prev 34 0 R
- /Title (Teaching) >>
-endobj
-% 'Outline.24.0': class OutlineEntryObject 
-36 0 obj
-<< /Dest [ 14 0 R
- /XYZ
- 62.69291
- 282.6345
- 0 ]
- /Next 37 0 R
- /Parent 35 0 R
- /Title (Teaching Interests) >>
+ /Next 29 0 R
+ /Parent 27 0 R
+ /Title (A Dynamic Equilibrium Model of Durable Goods: Pricing and Resale Market Strategies for Video Games) >>
 endobj
 % 'Outline.24.1': class OutlineEntryObject 
-37 0 obj
-<< /Dest [ 14 0 R
- /XYZ
- 62.69291
- 237.4545
- 0 ]
- /Next 38 0 R
- /Parent 35 0 R
- /Prev 36 0 R
- /Title (Instructor) >>
-endobj
-% 'Outline.24.2': class OutlineEntryObject 
-38 0 obj
-<< /Dest [ 14 0 R
- /XYZ
- 62.69291
- 138.2745
- 0 ]
- /Next 39 0 R
- /Parent 35 0 R
- /Prev 37 0 R
- /Title (Training) >>
-endobj
-% 'Outline.24.3': class OutlineEntryObject 
-39 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 691.1339
- 0 ]
- /Parent 35 0 R
- /Prev 38 0 R
- /Title (Teaching Assistant) >>
-endobj
-% 'Outline.8': class OutlineEntryObject 
-40 0 obj
-<< /Count 2
- /Dest [ 15 0 R
- /XYZ
- 62.69291
- 557.6074
- 0 ]
- /First 41 0 R
- /Last 42 0 R
- /Next 43 0 R
- /Parent 23 0 R
- /Prev 35 0 R
- /Title (Relevant Coursework) >>
-endobj
-% 'Outline.25.0': class OutlineEntryObject 
-41 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 527.7874
- 0 ]
- /Next 42 0 R
- /Parent 40 0 R
- /Title (Quantitative Marketing) >>
-endobj
-% 'Outline.25.1': class OutlineEntryObject 
-42 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 440.6074
- 0 ]
- /Parent 40 0 R
- /Prev 41 0 R
- /Title (Other Fields) >>
-endobj
-% 'Outline.9': class OutlineEntryObject 
-43 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 199.0809
- 0 ]
- /Next 44 0 R
- /Parent 23 0 R
- /Prev 40 0 R
- /Title (Computational Skills) >>
-endobj
-% 'Outline.10': class OutlineEntryObject 
-44 0 obj
-<< /Dest [ 20 0 R
+29 0 obj
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
  715.1339
  0 ]
- /Parent 23 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie Industry) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+30 0 obj
+<< /Count 2
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 480.7739
+ 0 ]
+ /First 31 0 R
+ /Last 32 0 R
+ /Next 33 0 R
+ /Parent 24 0 R
+ /Prev 27 0 R
+ /Title (Work In Progress) >>
+endobj
+% 'Outline.25.0': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 450.9539
+ 0 ]
+ /Next 32 0 R
+ /Parent 30 0 R
+ /Title (A Model of Downloadable Contents: Add-on and Secondary Market) >>
+endobj
+% 'Outline.25.1': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 333.7739
+ 0 ]
+ /Parent 30 0 R
+ /Prev 31 0 R
+ /Title (Measuring Benefits from Bilateral Free Trade Agreement: A Dynamic Structural Approach) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 161.0674
+ 0 ]
+ /Next 34 0 R
+ /Parent 24 0 R
+ /Prev 30 0 R
+ /Title (Honors & Awards) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 578.7874
+ 0 ]
+ /Next 35 0 R
+ /Parent 24 0 R
+ /Prev 33 0 R
+ /Title (Software Packages Authored) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 454.6209
+ 0 ]
+ /Next 36 0 R
+ /Parent 24 0 R
+ /Prev 34 0 R
+ /Title (Colloquia/Presentations) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+36 0 obj
+<< /Count 4
+ /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 264.4545
+ 0 ]
+ /First 37 0 R
+ /Last 40 0 R
+ /Next 41 0 R
+ /Parent 24 0 R
+ /Prev 35 0 R
+ /Title (Teaching) >>
+endobj
+% 'Outline.26.0': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 234.6345
+ 0 ]
+ /Next 38 0 R
+ /Parent 36 0 R
+ /Title (Teaching Interests) >>
+endobj
+% 'Outline.26.1': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 189.4545
+ 0 ]
+ /Next 39 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
+ /Title (Instructor) >>
+endobj
+% 'Outline.26.2': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 715.1339
+ 0 ]
+ /Next 40 0 R
+ /Parent 36 0 R
+ /Prev 38 0 R
+ /Title (Training) >>
+endobj
+% 'Outline.26.3': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 627.9539
+ 0 ]
+ /Parent 36 0 R
+ /Prev 39 0 R
+ /Title (Teaching Assistant) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+41 0 obj
+<< /Count 4
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 494.4274
+ 0 ]
+ /First 42 0 R
+ /Last 45 0 R
+ /Next 46 0 R
+ /Parent 24 0 R
+ /Prev 36 0 R
+ /Title (Selected Coursework) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 464.6074
+ 0 ]
+ /Next 43 0 R
+ /Parent 41 0 R
+ /Title (Quantitative Marketing) >>
+endobj
+% 'Outline.27.1': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 359.4274
+ 0 ]
+ /Next 44 0 R
+ /Parent 41 0 R
+ /Prev 42 0 R
+ /Title (Economics) >>
+endobj
+% 'Outline.27.2': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 200.2474
+ 0 ]
+ /Next 45 0 R
+ /Parent 41 0 R
  /Prev 43 0 R
+ /Title (Econometrics) >>
+endobj
+% 'Outline.27.3': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 715.1339
+ 0 ]
+ /Parent 41 0 R
+ /Prev 44 0 R
+ /Title (Operations Research) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 599.6074
+ 0 ]
+ /Next 47 0 R
+ /Parent 24 0 R
+ /Prev 41 0 R
+ /Title (Computational Skills) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 481.4409
+ 0 ]
+ /Parent 24 0 R
+ /Prev 46 0 R
  /Title (References) >>
 endobj
-% 'R45': class PDFPages 
-45 0 obj
+% 'R48': class PDFPages 
+48 0 obj
 % page tree
 << /Count 5
  /Kids [ 5 0 R
- 9 0 R
+ 8 0 R
  14 0 R
  15 0 R
- 20 0 R ]
+ 21 0 R ]
  /Type /Pages >>
 endobj
-% 'R46': class PDFStream 
-46 0 obj
+% 'R49': class PDFStream 
+49 0 obj
 % page stream
-<< /Length 5593 >>
+<< /Length 5790 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -625,7 +665,7 @@ q
 1 0 0 1 62.69291 630.7339 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 187.0971 0 Td (\(Updated on 2013-06-15\)) Tj T* -187.0971 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 187.0971 0 Td (\(Updated on 2013-06-29\)) Tj T* -187.0971 0 Td ET
 Q
 Q
 q
@@ -645,11 +685,35 @@ q
 1 0 0 1 62.69291 560.5674 cm
 Q
 q
-1 0 0 1 62.69291 548.5674 cm
+1 0 0 1 62.69291 518.5674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2014, \(Expected\) Ph.D. Marketing, University of Texas at Austin, Austin, TX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
@@ -659,17 +723,23 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2014, \(Expected\) Ph.D. Marketing, University of Texas at Austin, Austin, TX) Tj T* ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL .066917 Tw (Dissertation Committee: Jason Duan and Leigh McAlister \(Co-advisers\), Ty Henderson, Raghunath) Tj T* 0 Tw (S. Rao, Stephen P. Ryan \(Economics\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 542.5674 cm
+1 0 0 1 23 -3 cm
 Q
 q
-1 0 0 1 62.69291 530.5674 cm
+Q
+Q
+q
+1 0 0 1 62.69291 512.5674 cm
+Q
+q
+1 0 0 1 62.69291 500.5674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -690,10 +760,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 524.5674 cm
+1 0 0 1 62.69291 494.5674 cm
 Q
 q
-1 0 0 1 62.69291 512.5674 cm
+1 0 0 1 62.69291 482.5674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -714,10 +784,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 506.5674 cm
+1 0 0 1 62.69291 476.5674 cm
 Q
 q
-1 0 0 1 62.69291 494.5674 cm
+1 0 0 1 62.69291 464.5674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -738,157 +808,134 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 494.5674 cm
+1 0 0 1 62.69291 464.5674 cm
 Q
 q
-1 0 0 1 62.69291 466.2209 cm
+1 0 0 1 62.69291 436.2209 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 436.4009 cm
+1 0 0 1 62.69291 406.4009 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Research Interest) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 424.4009 cm
-Q
-q
-1 0 0 1 62.69291 424.4009 cm
-Q
-q
-1 0 0 1 62.69291 400.4009 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
+1 0 0 1 62.69291 376.4009 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL .683514 Tw (Discrete Choice Models, Dynamic Structural Models, Durable Goods Market, Network Effects, Used Goods) Tj T* 0 Tw (Market, Imperfect Competition) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.515743 Tw (Discrete Choice Models, Dynamic Structural Models, Durable Goods Market, Network Effects, Used) Tj T* 0 Tw (Goods Market, Imperfect Competition) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 400.4009 cm
-Q
-q
-1 0 0 1 62.69291 372.0545 cm
+1 0 0 1 62.69291 348.0545 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 342.2345 cm
+1 0 0 1 62.69291 318.2345 cm
 q
-BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Working Paper) Tj T* ET
+BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Working Papers) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 299.8745 cm
+1 0 0 1 62.69291 275.8745 cm
 q
 BT 1 0 0 1 0 17.71 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (A Dynamic Equilibrium Model of Durable Goods: Pricing and Resale Market Strategies) Tj T* (for Video Games) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 281.8745 cm
+1 0 0 1 62.69291 257.8745 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 202.9811 0 Td (\(with Jason Duan\)) Tj T* -202.9811 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 155.8745 cm
+1 0 0 1 62.69291 95.87449 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 109 Tm /F1 11 Tf 12 TL .118545 Tw (This study considers intertemporal price discrimination under the presence of used goods market for the video) Tj T* 0 Tw 1.372698 Tw (game industry. The price of a video game generally follows a declining trend because \(i\) higher valuation) Tj T* 0 Tw 1.310716 Tw (consumers purchase the game in the earlier stages after its release and exit the market, leaving only lower) Tj T* 0 Tw .898121 Tw (valuation buyers and causing the producer to cut the game price and \(ii\) the existence of used game market) Tj T* 0 Tw .786588 Tw (causes the producer to cut the price of new game copies to compete with used ones. We propose a dynamic) Tj T* 0 Tw 1.853652 Tw (equilibrium model which incorporates intertemporal demand and pricing, expectations and competition in) Tj T* 0 Tw .270345 Tw (new and used goods market. By exploiting firm's optimal intertemporal pricing policy, our model can recover) Tj T* 0 Tw 2.002512 Tw (game-specific demand only with new and used prices without observing sales information, which is less) Tj T* 0 Tw 2.665348 Tw (commonly available. Policy analysis on marketing strategies include elimination of used goods market,) Tj T* 0 Tw (intertemporal price discrimination, different pricing schemes, and myopic consumers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 113.5145 cm
-q
-BT 1 0 0 1 0 17.71 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie) Tj T* (Industry) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 95.51449 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 196.8706 0 Td (\(with Romana Khan\)) Tj T* -196.8706 0 Td ET
+BT 1 0 0 1 0 145 Tm /F1 11 Tf 12 TL .89401 Tw (This paper studies the impact of the used goods market on overall market outcomes and the implications of) Tj T* 0 Tw 3.486727 Tw (eliminating used goods in the video game industry. We develop a general modeling framework that) Tj T* 0 Tw .465936 Tw (incorporates rational expectations on new and used goods prices, inter-temporal pricing discrimination, and a) Tj T* 0 Tw .453431 Tw (competitive used goods market. The demand function is constructed from heterogeneous consumers modeled) Tj T* 0 Tw .40251 Tw (by a distribution of their valuation on a Hotelling line, which enables us to estimate sales volume shares over) Tj T* 0 Tw .388454 Tw (time from the varying decreasing rates of new and used goods prices without the need of observing real sales) Tj T* 0 Tw 1.180198 Tw (data. The equilibrium prices and sales for both new and used game markets are solved explicitly assuming) Tj T* 0 Tw .705535 Tw (that the observed new game prices are set optimally by firms and the used game prices clear the used goods) Tj T* 0 Tw .541084 Tw (market. A producer\222s inter-temporal pricing strategy is determined not only for price discrimination, but also) Tj T* 0 Tw .349167 Tw (from considering competition with the resale market. We estimate game specific demand with hand-collected) Tj T* 0 Tw .736727 Tw (prices data. Counterfactual analysis suggests the used game market significantly harms most games in terms) Tj T* 0 Tw 2.642678 Tw (of profitability, but can still benefit a smaller number of games, depending on the consumer valuation) Tj T* 0 Tw (distribution and expected playtime.) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-% 'R47': class PDFStream 
-47 0 obj
+% 'R50': class PDFStream 
+50 0 obj
 % page stream
-<< /Length 6797 >>
+<< /Length 6269 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 547.1339 cm
+1 0 0 1 62.69291 684.7739 cm
+q
+BT 1 0 0 1 0 17.71 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie) Tj T* (Industry) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.7739 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 157 Tm /F1 11 Tf 12 TL .809636 Tw (In this paper, we study variety seeking across genres in consumers' choices at movie theaters. While variety) Tj T* 0 Tw 3.032078 Tw (seeking encompasses an array of behaviors that promote diversity in choices made, we focus on two) Tj T* 0 Tw 1.480798 Tw (components: the tendency to engage in exploratory behavior, and the tendency to seek sequentially varied) Tj T* 0 Tw 2.340545 Tw (experiences. Although movies are a hedonic good for which we expect consumers to engage in variety) Tj T* 0 Tw .840783 Tw (seeking, several factors, uncertainty about movie quality in particular, mitigate this tendency. Online ratings) Tj T* 0 Tw 1.103198 Tw (provide signals of movie quality and serve as a mechanism to alleviate this uncertainty. We investigate the) Tj T* 0 Tw .013232 Tw (extent of variety seeking in movie choices, and the impact of online ratings on variety seeking. Using a unique) Tj T* 0 Tw 1.257886 Tw (consumer level panel data of movie-going at theaters, we estimate a movie choice model that accounts for) Tj T* 0 Tw 2.399652 Tw (consumers' intrinsic preferences for movie attributes, demographics, state dependence, and online movie) Tj T* 0 Tw 2.016936 Tw (ratings. Surprisingly, consumers exhibit positive state dependence \(inertia\) over genres in their choice of) Tj T* 0 Tw 1.686936 Tw (movies. However, higher online ratings diminish positive state dependence and induce consumers to seek) Tj T* 0 Tw 1.66409 Tw (more variety. We find considerable heterogeneity in exploratory behavior and sensitivity to online ratings) Tj T* 0 Tw 2.416931 Tw (across consumers. Demographic factors account for some heterogeneity, as older consumers show more) Tj T* 0 Tw (inertia and less sensitivity to online ratings. Theoretical and managerial implications are discussed.) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 196.8706 0 Td (\(with Romana Khan\)) Tj T* -196.8706 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 517.3139 cm
+1 0 0 1 62.69291 492.7739 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 157 Tm /F1 11 Tf 12 TL .809636 Tw (In this paper, we study variety seeking across genres in consumers' choices at movie theaters. While variety) Tj T* 0 Tw 3.032078 Tw (seeking encompasses an array of behaviors that promote diversity in choices made, we focus on two) Tj T* 0 Tw 1.480798 Tw (components: the tendency to engage in exploratory behavior, and the tendency to seek sequentially varied) Tj T* 0 Tw 2.340545 Tw (experiences. Although movies are a hedonic good for which we expect consumers to engage in variety) Tj T* 0 Tw .840783 Tw (seeking, several factors, uncertainty about movie quality in particular, mitigate this tendency. Online ratings) Tj T* 0 Tw 1.103198 Tw (provide signals of movie quality and serve as a mechanism to alleviate this uncertainty. We investigate the) Tj T* 0 Tw .013232 Tw (extent of variety seeking in movie choices, and the impact of online ratings on variety seeking. Using a unique) Tj T* 0 Tw 1.257886 Tw (consumer level panel data of movie-going at theaters, we estimate a movie choice model that accounts for) Tj T* 0 Tw 2.399652 Tw (consumers' intrinsic preferences for movie attributes, demographics, state dependence, and online movie) Tj T* 0 Tw 2.016936 Tw (ratings. Surprisingly, consumers exhibit positive state dependence \(inertia\) over genres in their choice of) Tj T* 0 Tw 1.686936 Tw (movies. However, higher online ratings diminish positive state dependence and induce consumers to seek) Tj T* 0 Tw 1.66409 Tw (more variety. We find considerable heterogeneity in exploratory behavior and sensitivity to online ratings) Tj T* 0 Tw 2.416931 Tw (across consumers. Demographic factors account for some heterogeneity, as older consumers show more) Tj T* 0 Tw (inertia and less sensitivity to online ratings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.9539 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Work In Progress) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 490.1339 cm
+1 0 0 1 62.69291 435.7739 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (A Model of Downloadable Contents: Add-on and Secondary Market) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 400.1339 cm
+1 0 0 1 62.69291 345.7739 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 73 Tm /F1 11 Tf 12 TL .950573 Tw (I study the profit implications and optimal release schedule of add-on packages in video game industry. An) Tj T* 0 Tw .758073 Tw (add-on extends the durability of a video game by providing new maps and additional missions. The original) Tj T* 0 Tw .303959 Tw (disc is required in order to play the add-on and if consumers expect the future release of the add-on, they will) Tj T* 0 Tw 1.796454 Tw (hold on the game even after they finished with them. This will effectively reduce the flow of used copy) Tj T* 0 Tw .207386 Tw (supply, alleviating the threat from the secondary market for producers. I plan to extend the dynamic structural) Tj T* 0 Tw 1.89851 Tw (model in the first working paper to include add-on as another control for the firm, and access the profit) Tj T* 0 Tw (implications of the add-on and also the optimal release schedule of the add-on.) Tj T* ET
+BT 1 0 0 1 0 73 Tm /F1 11 Tf 12 TL .950573 Tw (I study the profit implications and optimal release schedule of add-on packages in the video game industry.) Tj T* 0 Tw 2.056761 Tw (An add-on extends the durability of a video game by providing new maps and additional missions. The) Tj T* 0 Tw .561378 Tw (original disc is required in order to play the add-on and if consumers expect the future release of the add-on,) Tj T* 0 Tw .56022 Tw (they will hold on the game even after they finished the game. This will effectively reduce the inflow of used) Tj T* 0 Tw 1.110775 Tw (copy supply, alleviating the threat from the used goods market for producers. I plan to extend the dynamic) Tj T* 0 Tw 1.560481 Tw (structural model in my job market paper to include releasing add-ons as another control for the firm, and) Tj T* 0 Tw (assess the profit implications of add-ons and also their optimal release schedule.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 357.7739 cm
+1 0 0 1 62.69291 303.4139 cm
 q
 BT 1 0 0 1 0 17.71 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Measuring Benefits from Bilateral Free Trade Agreement: A Dynamic Structural) Tj T* (Approach) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 255.7739 cm
+1 0 0 1 62.69291 201.4139 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 85 Tm /F1 11 Tf 12 TL .741573 Tw (I quantify the consumer welfare gains and supplier profit changes from the FTAs in the Korean Automotive) Tj T* 0 Tw .568812 Tw (Industry. Recently South Korea has negotiated a couple of major bilateral free trade agreements \(FTAs\), one) Tj T* 0 Tw .575851 Tw (with EU and the other with the U.S, which have come into force in 2011 and 2012, respectively. Since there) Tj T* 0 Tw .668011 Tw (are significant time gap between the announcement of an agreement and the actual date when the agreement) Tj T* 0 Tw 1.153941 Tw (enters into effect, durable goods consumers might postpone purchase, expecting future price decline due to) Tj T* 0 Tw 4.830514 Tw (the agreement. Thus modeling dynamics is important in the welfare calculation. Utilizing unique,) Tj T* 0 Tw .456181 Tw (hand-collected automotive characteristics information and aggregate level sales data, I estimate dynamic new) Tj T* 0 Tw (durable goods demand model and conduct counterfactual analyses with different levels of tariffs.) Tj T* ET
+BT 1 0 0 1 0 85 Tm /F1 11 Tf 12 TL .741573 Tw (I quantify the consumer welfare gains and supplier profit changes from the FTAs in the Korean Automotive) Tj T* 0 Tw .568812 Tw (Industry. Recently South Korea has negotiated a couple of major bilateral free trade agreements \(FTAs\), one) Tj T* 0 Tw .577309 Tw (with EU and the other with the U.S., which have come into force in 2011 and 2012, respectively. Due to the) Tj T* 0 Tw 1.791278 Tw (significant time gap between the announcement of an agreement and the actual date when the agreement) Tj T* 0 Tw 1.430552 Tw (enters into effect, durable goods consumers might postpone purchase, expecting future price decline. Thus) Tj T* 0 Tw 2.769652 Tw (modeling dynamics is important in the welfare calculation. Utilizing unique, hand-collected automotive) Tj T* 0 Tw 1.760552 Tw (characteristics information and aggregate level sales data, I estimate dynamic new durable goods demand) Tj T* 0 Tw (model and conduct counterfactual analysis to measure the welfare gains and profit implications.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 227.4274 cm
+1 0 0 1 62.69291 173.0674 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 197.6074 cm
+1 0 0 1 62.69291 143.2474 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Honors & Awards) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 185.6074 cm
+1 0 0 1 62.69291 131.2474 cm
 Q
 q
-1 0 0 1 62.69291 185.6074 cm
+1 0 0 1 62.69291 131.2474 cm
 Q
 q
-1 0 0 1 62.69291 173.6074 cm
+1 0 0 1 62.69291 119.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -908,10 +955,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 167.6074 cm
+1 0 0 1 62.69291 113.2474 cm
 Q
 q
-1 0 0 1 62.69291 155.6074 cm
+1 0 0 1 62.69291 101.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -932,10 +979,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 149.6074 cm
+1 0 0 1 62.69291 95.2474 cm
 Q
 q
-1 0 0 1 62.69291 137.6074 cm
+1 0 0 1 62.69291 83.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -956,10 +1003,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 131.6074 cm
+1 0 0 1 62.69291 77.2474 cm
 Q
+ 
+endstream
+endobj
+% 'R51': class PDFStream 
+51 0 obj
+% page stream
+<< /Length 7259 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 107.6074 cm
+1 0 0 1 62.69291 691.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -979,10 +1035,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 101.6074 cm
+1 0 0 1 62.69291 685.1339 cm
 Q
 q
-1 0 0 1 62.69291 89.6074 cm
+1 0 0 1 62.69291 673.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1003,19 +1059,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 83.6074 cm
+1 0 0 1 62.69291 667.1339 cm
 Q
- 
-endstream
-endobj
-% 'R48': class PDFStream 
-48 0 obj
-% page stream
-<< /Length 7333 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 703.1339 cm
+1 0 0 1 62.69291 655.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1036,10 +1083,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 697.1339 cm
+1 0 0 1 62.69291 649.1339 cm
 Q
 q
-1 0 0 1 62.69291 685.1339 cm
+1 0 0 1 62.69291 637.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1060,10 +1107,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 679.1339 cm
+1 0 0 1 62.69291 631.1339 cm
 Q
 q
-1 0 0 1 62.69291 667.1339 cm
+1 0 0 1 62.69291 619.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1084,26 +1131,26 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 667.1339 cm
+1 0 0 1 62.69291 619.1339 cm
 Q
 q
-1 0 0 1 62.69291 638.7874 cm
+1 0 0 1 62.69291 590.7874 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 608.9674 cm
+1 0 0 1 62.69291 560.9674 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Software Packages Authored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 596.9674 cm
+1 0 0 1 62.69291 548.9674 cm
 Q
 q
-1 0 0 1 62.69291 596.9674 cm
+1 0 0 1 62.69291 548.9674 cm
 Q
 q
-1 0 0 1 62.69291 572.9674 cm
+1 0 0 1 62.69291 524.9674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1123,10 +1170,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 566.9674 cm
+1 0 0 1 62.69291 518.9674 cm
 Q
 q
-1 0 0 1 62.69291 542.9674 cm
+1 0 0 1 62.69291 494.9674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1146,26 +1193,26 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 542.9674 cm
+1 0 0 1 62.69291 494.9674 cm
 Q
 q
-1 0 0 1 62.69291 514.6209 cm
+1 0 0 1 62.69291 466.6209 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 484.8009 cm
+1 0 0 1 62.69291 436.8009 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Colloquia/Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 472.8009 cm
+1 0 0 1 62.69291 424.8009 cm
 Q
 q
-1 0 0 1 62.69291 472.8009 cm
+1 0 0 1 62.69291 424.8009 cm
 Q
 q
-1 0 0 1 62.69291 436.8009 cm
+1 0 0 1 62.69291 388.8009 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1185,10 +1232,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 430.8009 cm
+1 0 0 1 62.69291 382.8009 cm
 Q
 q
-1 0 0 1 62.69291 394.8009 cm
+1 0 0 1 62.69291 346.8009 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1208,10 +1255,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 388.8009 cm
+1 0 0 1 62.69291 340.8009 cm
 Q
 q
-1 0 0 1 62.69291 352.8009 cm
+1 0 0 1 62.69291 304.8009 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1231,45 +1278,45 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 352.8009 cm
+1 0 0 1 62.69291 304.8009 cm
 Q
 q
-1 0 0 1 62.69291 324.4545 cm
+1 0 0 1 62.69291 276.4545 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 294.6345 cm
+1 0 0 1 62.69291 246.6345 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Teaching) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 267.4545 cm
+1 0 0 1 62.69291 219.4545 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Teaching Interests) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 249.4545 cm
+1 0 0 1 62.69291 201.4545 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Principles of Marketing, Marketing Research, Pricing, and Data Mining.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 222.2745 cm
+1 0 0 1 62.69291 174.2745 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Instructor) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 210.2745 cm
+1 0 0 1 62.69291 162.2745 cm
 Q
 q
-1 0 0 1 62.69291 210.2745 cm
+1 0 0 1 62.69291 162.2745 cm
 Q
 q
-1 0 0 1 62.69291 180.2745 cm
+1 0 0 1 62.69291 132.2745 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1320,10 +1367,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 174.2745 cm
+1 0 0 1 62.69291 126.2745 cm
 Q
 q
-1 0 0 1 62.69291 150.2745 cm
+1 0 0 1 62.69291 102.2745 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1343,22 +1390,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 150.2745 cm
+1 0 0 1 62.69291 102.2745 cm
 Q
+ 
+endstream
+endobj
+% 'R52': class PDFStream 
+52 0 obj
+% page stream
+<< /Length 9313 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 123.0945 cm
+1 0 0 1 62.69291 699.9539 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Training) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 111.0945 cm
+1 0 0 1 62.69291 687.9539 cm
 Q
 q
-1 0 0 1 62.69291 111.0945 cm
+1 0 0 1 62.69291 687.9539 cm
 Q
 q
-1 0 0 1 62.69291 99.09449 cm
+1 0 0 1 62.69291 675.9539 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1379,10 +1435,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 93.09449 cm
+1 0 0 1 62.69291 669.9539 cm
 Q
 q
-1 0 0 1 62.69291 81.09449 cm
+1 0 0 1 62.69291 657.9539 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1403,19 +1459,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 76.86614 cm
+1 0 0 1 62.69291 651.9539 cm
 Q
- 
-endstream
-endobj
-% 'R49': class PDFStream 
-49 0 obj
-% page stream
-<< /Length 8539 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 703.1339 cm
+1 0 0 1 62.69291 639.9539 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1436,22 +1483,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 703.1339 cm
+1 0 0 1 62.69291 639.9539 cm
 Q
 q
-1 0 0 1 62.69291 675.9539 cm
+1 0 0 1 62.69291 612.7739 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Teaching Assistant) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 663.9539 cm
+1 0 0 1 62.69291 600.7739 cm
 Q
 q
-1 0 0 1 62.69291 663.9539 cm
+1 0 0 1 62.69291 600.7739 cm
 Q
 q
-1 0 0 1 62.69291 597.9539 cm
+1 0 0 1 62.69291 534.7739 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1550,55 +1597,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 597.9539 cm
+1 0 0 1 62.69291 534.7739 cm
 Q
 q
-1 0 0 1 62.69291 569.6074 cm
+1 0 0 1 62.69291 506.4274 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 539.7874 cm
+1 0 0 1 62.69291 476.6074 cm
 q
-BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Relevant Coursework) Tj T* ET
+BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Selected Coursework) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 512.6074 cm
+1 0 0 1 62.69291 449.4274 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Quantitative Marketing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 500.6074 cm
+1 0 0 1 62.69291 437.4274 cm
 Q
 q
-1 0 0 1 62.69291 500.6074 cm
+1 0 0 1 62.69291 437.4274 cm
 Q
 q
-1 0 0 1 62.69291 488.6074 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (Marketing Models I & II) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 482.6074 cm
-Q
-q
-1 0 0 1 62.69291 470.6074 cm
+1 0 0 1 62.69291 425.4274 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1612,17 +1636,65 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Research Methods) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Models I \(Frenkel Ter Hofstede\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 464.6074 cm
+1 0 0 1 62.69291 419.4274 cm
 Q
 q
-1 0 0 1 62.69291 452.6074 cm
+1 0 0 1 62.69291 407.4274 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Models II \(Jason Duan\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 401.4274 cm
+Q
+q
+1 0 0 1 62.69291 389.4274 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Research Methods \(Raghunath S. Rao\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 383.4274 cm
+Q
+q
+1 0 0 1 62.69291 371.4274 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1643,91 +1715,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 452.6074 cm
+1 0 0 1 62.69291 371.4274 cm
 Q
 q
-1 0 0 1 62.69291 425.4274 cm
+1 0 0 1 62.69291 344.2474 cm
 q
-BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Other Fields) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 413.4274 cm
-Q
-q
-1 0 0 1 62.69291 413.4274 cm
-Q
-q
-1 0 0 1 62.69291 401.4274 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Economics) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (Microeconomics I & II) Tj T* ET
-Q
+1 0 0 1 62.69291 332.2474 cm
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 395.4274 cm
+1 0 0 1 62.69291 332.2474 cm
 Q
 q
-1 0 0 1 62.69291 383.4274 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (Macroeconomics I & II) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 377.4274 cm
-Q
-q
-1 0 0 1 62.69291 365.4274 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (Industrial Organization I & II) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 359.4274 cm
-Q
-q
-1 0 0 1 62.69291 347.4274 cm
+1 0 0 1 62.69291 320.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1741,46 +1744,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Computational Economics I) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Microeconomics I \(Thomas Wiseman\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 347.4274 cm
+1 0 0 1 62.69291 314.2474 cm
 Q
 q
-1 0 0 1 62.69291 341.4274 cm
-Q
-q
-1 0 0 1 62.69291 341.4274 cm
-Q
-q
-1 0 0 1 62.69291 329.4274 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (Econometrics I, II, & III) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 323.4274 cm
-Q
-q
-1 0 0 1 62.69291 311.4274 cm
+1 0 0 1 62.69291 302.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1794,17 +1768,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Bayesian Econometrics) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Microeconomics II \(Svetlana Boyarchenko\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 305.4274 cm
+1 0 0 1 62.69291 296.2474 cm
 Q
 q
-1 0 0 1 62.69291 293.4274 cm
+1 0 0 1 62.69291 284.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1818,23 +1792,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Discrete Choice Theory and Modeling) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Macroeconomics I \(Fatih Guvenen\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 293.4274 cm
+1 0 0 1 62.69291 278.2474 cm
 Q
 q
-1 0 0 1 62.69291 287.4274 cm
-Q
-q
-1 0 0 1 62.69291 287.4274 cm
-Q
-q
-1 0 0 1 62.69291 275.4274 cm
+1 0 0 1 62.69291 266.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1848,17 +1816,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Applied Stochastic Processes) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Macroeconomics II \(P. Dean Corbae\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 269.4274 cm
+1 0 0 1 62.69291 260.2474 cm
 Q
 q
-1 0 0 1 62.69291 257.4274 cm
+1 0 0 1 62.69291 248.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1872,17 +1840,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Markov Decision Processes) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Industrial Organization I \(Kenneth Hendricks\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 251.4274 cm
+1 0 0 1 62.69291 242.2474 cm
 Q
 q
-1 0 0 1 62.69291 239.4274 cm
+1 0 0 1 62.69291 230.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1896,33 +1864,282 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Stochastic Optimization) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Industrial Organization II \(Eugenio J. Miravete\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 239.4274 cm
+1 0 0 1 62.69291 224.2474 cm
 Q
 q
-1 0 0 1 62.69291 211.0809 cm
+1 0 0 1 62.69291 212.2474 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Empirical IO Lecture Series \(Amil Petrin, Ali Hortascu, Daniel Ackerberg\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 212.2474 cm
+Q
+q
+1 0 0 1 62.69291 185.0674 cm
+q
+BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Econometrics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.0674 cm
+Q
+q
+1 0 0 1 62.69291 173.0674 cm
+Q
+q
+1 0 0 1 62.69291 161.0674 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Econometrics I \(Stephen Donald\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 155.0674 cm
+Q
+q
+1 0 0 1 62.69291 143.0674 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Econometrics II \(Jason Abrevaya\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 137.0674 cm
+Q
+q
+1 0 0 1 62.69291 125.0674 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Econometrics III \(Russell W. Cooper, Eugenio J. Miravete\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 119.0674 cm
+Q
+q
+1 0 0 1 62.69291 107.0674 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Bayesian Econometrics \(Rob McCulloch\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 101.0674 cm
+Q
+q
+1 0 0 1 62.69291 89.0674 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Discrete Choice Theory and Modeling \(Chandra Bhat\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 89.0674 cm
+Q
+ 
+endstream
+endobj
+% 'R53': class PDFStream 
+53 0 obj
+% page stream
+<< /Length 7113 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 699.9539 cm
+q
+BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Operations Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.9539 cm
+Q
+q
+1 0 0 1 62.69291 687.9539 cm
+Q
+q
+1 0 0 1 62.69291 675.9539 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Applied Stochastic Processes \(John Hasenbein\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 669.9539 cm
+Q
+q
+1 0 0 1 62.69291 657.9539 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Markov Decision Processes \(John Hasenbein\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.9539 cm
+Q
+q
+1 0 0 1 62.69291 639.9539 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Stochastic Optimization \(David Morton\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.9539 cm
+Q
+q
+1 0 0 1 62.69291 611.6074 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 181.2609 cm
+1 0 0 1 62.69291 581.7874 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Computational Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 169.2609 cm
+1 0 0 1 62.69291 569.7874 cm
 Q
 q
-1 0 0 1 62.69291 169.2609 cm
+1 0 0 1 62.69291 569.7874 cm
 Q
 q
-1 0 0 1 62.69291 157.2609 cm
+1 0 0 1 62.69291 557.7874 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1943,10 +2160,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 151.2609 cm
+1 0 0 1 62.69291 551.7874 cm
 Q
 q
-1 0 0 1 62.69291 139.2609 cm
+1 0 0 1 62.69291 539.7874 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1967,10 +2184,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 133.2609 cm
+1 0 0 1 62.69291 533.7874 cm
 Q
 q
-1 0 0 1 62.69291 121.2609 cm
+1 0 0 1 62.69291 521.7874 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1991,278 +2208,342 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 121.2609 cm
+1 0 0 1 62.69291 521.7874 cm
 Q
 q
-1 0 0 1 62.69291 92.91449 cm
+1 0 0 1 62.69291 493.4409 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 92.91449 cm
-Q
- 
-endstream
-endobj
-% 'R50': class PDFStream 
-50 0 obj
-% page stream
-<< /Length 4371 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 697.3139 cm
+1 0 0 1 62.69291 463.6209 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 685.3139 cm
+1 0 0 1 62.69291 451.6209 cm
 Q
 q
-1 0 0 1 62.69291 667.3139 cm
+1 0 0 1 62.69291 199.6209 cm
+1 1 1 rg
+n 0 252 486.6142 -84 re f*
+1 1 1 rg
+n 0 168 486.6142 -84 re f*
+1 1 1 rg
+n 0 84 486.6142 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 243 cm
+Q
+q
+1 0 0 1 6 231 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 215.6476 0 Td (Jason Duan) Tj T* -215.6476 0 Td ET
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Jason Duan) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 649.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 170.7456 0 Td (Assistant Professor of Marketing) Tj T* -170.7456 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 631.3139 cm
+1 0 0 1 6 219 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Assistant Professor of Marketing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 613.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 595.3139 cm
+1 0 0 1 6 207 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 201.7106 0 Td (+1 \(512\) 232-8323) Tj T* -201.7106 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (McCombs School of Business) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 577.3139 cm
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 232-8323) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 171 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 171.4881 0 Td (Jun.Duan@mccombs.utexas.edu) Tj T* -171.4881 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Jun.Duan@mccombs.utexas.edu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 559.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
-Q
+1 0 0 1 6 171 cm
 Q
 q
-1 0 0 1 62.69291 541.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 204.9666 0 Td (Leigh McAlister) Tj T* -204.9666 0 Td ET
-Q
+1 0 0 1 210.8902 243 cm
 Q
 q
-1 0 0 1 62.69291 523.3139 cm
+1 0 0 1 210.8902 231 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 192.2891 0 Td (Professor of Marketing) Tj T* -192.2891 0 Td ET
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Leigh McAlister) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 505.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 487.3139 cm
+1 0 0 1 210.8902 219 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Ed and Molly Smith Chair in Business Administration) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 469.3139 cm
+1 0 0 1 210.8902 207 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 201.7106 0 Td (+1 \(512\) 471-5458) Tj T* -201.7106 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (McCombs School of Business) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 451.3139 cm
+1 0 0 1 210.8902 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.8902 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 471-5458) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.8902 171 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.8776 0 Td (leigh.mcalister@mccombs.utexas.edu) Tj T* -159.8776 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (leigh.mcalister@mccombs.utexas.edu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 433.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
-Q
+1 0 0 1 210.8902 171 cm
 Q
 q
-1 0 0 1 62.69291 415.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 209.8451 0 Td (Ty Henderson) Tj T* -209.8451 0 Td ET
-Q
+1 0 0 1 6 159 cm
 Q
 q
-1 0 0 1 62.69291 397.3139 cm
+1 0 0 1 6 147 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 170.7456 0 Td (Assistant Professor of Marketing) Tj T* -170.7456 0 Td ET
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Ty Henderson) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 379.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 361.3139 cm
+1 0 0 1 6 135 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Assistant Professor of Marketing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 343.3139 cm
+1 0 0 1 6 123 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 201.7106 0 Td (+1 \(512\) 232-3746) Tj T* -201.7106 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (McCombs School of Business) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 325.3139 cm
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 232-3746) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 164.1566 0 Td (ty.henderson@mccombs.utexas.edu) Tj T* -164.1566 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (ty.henderson@mccombs.utexas.edu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 307.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 241.9321 0 Td ( ) Tj T* -241.9321 0 Td ET
-Q
+1 0 0 1 6 87 cm
 Q
 q
-1 0 0 1 62.69291 289.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 200.3686 0 Td (Raghunath S. Rao) Tj T* -200.3686 0 Td ET
-Q
+1 0 0 1 210.8902 159 cm
 Q
 q
-1 0 0 1 62.69291 271.3139 cm
+1 0 0 1 210.8902 147 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 170.7456 0 Td (Assistant Professor of Marketing) Tj T* -170.7456 0 Td ET
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Raghunath S. Rao) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 253.3139 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 176.8451 0 Td (McCombs School of Business) Tj T* -176.8451 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 235.3139 cm
+1 0 0 1 210.8902 135 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 178.2311 0 Td (University of Texas at Austin) Tj T* -178.2311 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Assistant Professor of Marketing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 217.3139 cm
+1 0 0 1 210.8902 123 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 201.7106 0 Td (+1 \(512\) 232-3748) Tj T* -201.7106 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (McCombs School of Business) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 199.3139 cm
+1 0 0 1 210.8902 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.8902 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 232-3748) Tj T* ET
+Q
+Q
+q
+1 0 0 1 210.8902 87 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 158.3486 0 Td (Raghunath.Rao@mccombs.utexas.edu) Tj T* -158.3486 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Raghunath.Rao@mccombs.utexas.edu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 199.3139 cm
+1 0 0 1 210.8902 87 cm
+Q
+q
+1 0 0 1 6 75 cm
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Stephen P. Ryan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Associate Professor of Economics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 475-8543) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (sryan@utexas.edu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+1 1 1 RG
+.25 w
+n 0 168 m 486.6142 168 l S
+n 0 84 m 486.6142 84 l S
+n 204.8902 0 m 204.8902 252 l S
+n 0 252 m 486.6142 252 l S
+n 0 0 m 486.6142 0 l S
+n 0 0 m 0 252 l S
+n 486.6142 0 m 486.6142 252 l S
+Q
+Q
+q
+1 0 0 1 62.69291 199.6209 cm
 Q
  
 endstream
 endobj
-% 'R51': class PDFPageLabels 
-51 0 obj
+% 'R54': class PDFPageLabels 
+54 0 obj
 % Document Root
 << /Nums [ 0
- 52 0 R
- 1
- 53 0 R
- 2
- 54 0 R
- 3
  55 0 R
+ 1
+ 56 0 R
+ 2
+ 57 0 R
+ 3
+ 58 0 R
  4
- 56 0 R ] >>
-endobj
-% 'R52': class PDFPageLabel 
-52 0 obj
-% None
-<< /S /D
- /St 1 >>
-endobj
-% 'R53': class PDFPageLabel 
-53 0 obj
-% None
-<< /S /D
- /St 2 >>
-endobj
-% 'R54': class PDFPageLabel 
-54 0 obj
-% None
-<< /S /D
- /St 3 >>
+ 59 0 R ] >>
 endobj
 % 'R55': class PDFPageLabel 
 55 0 obj
 % None
 << /S /D
- /St 4 >>
+ /St 1 >>
 endobj
 % 'R56': class PDFPageLabel 
 56 0 obj
 % None
 << /S /D
+ /St 2 >>
+endobj
+% 'R57': class PDFPageLabel 
+57 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R58': class PDFPageLabel 
+58 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R59': class PDFPageLabel 
+59 0 obj
+% None
+<< /S /D
  /St 5 >>
 endobj
 xref
-0 57
+0 60
 0000000000 65535 f
 0000000113 00000 n
 0000000234 00000 n
@@ -2271,63 +2552,66 @@ xref
 0000000821 00000 n
 0000001124 00000 n
 0000001391 00000 n
-0000001647 00000 n
-0000001895 00000 n
-0000002214 00000 n
-0000002469 00000 n
-0000002726 00000 n
-0000002910 00000 n
-0000003145 00000 n
+0000001633 00000 n
+0000001944 00000 n
+0000002206 00000 n
+0000002461 00000 n
+0000002718 00000 n
+0000002902 00000 n
+0000003137 00000 n
 0000003454 00000 n
 0000003738 00000 n
-0000003989 00000 n
-0000004250 00000 n
-0000004508 00000 n
-0000004752 00000 n
-0000005071 00000 n
-0000005230 00000 n
-0000005488 00000 n
-0000005614 00000 n
-0000005783 00000 n
-0000005975 00000 n
-0000006208 00000 n
-0000006469 00000 n
-0000006720 00000 n
-0000006956 00000 n
-0000007180 00000 n
-0000007425 00000 n
-0000007615 00000 n
-0000007817 00000 n
-0000008016 00000 n
-0000008245 00000 n
-0000008427 00000 n
-0000008616 00000 n
-0000008803 00000 n
-0000008982 00000 n
-0000009222 00000 n
-0000009408 00000 n
-0000009581 00000 n
-0000009778 00000 n
-0000009933 00000 n
-0000010075 00000 n
-0000015767 00000 n
-0000022663 00000 n
-0000030095 00000 n
-0000038733 00000 n
-0000043207 00000 n
-0000043352 00000 n
-0000043429 00000 n
-0000043506 00000 n
-0000043583 00000 n
-0000043660 00000 n
+0000003991 00000 n
+0000004252 00000 n
+0000004510 00000 n
+0000004769 00000 n
+0000004997 00000 n
+0000005325 00000 n
+0000005484 00000 n
+0000005742 00000 n
+0000005868 00000 n
+0000006037 00000 n
+0000006229 00000 n
+0000006463 00000 n
+0000006724 00000 n
+0000006975 00000 n
+0000007211 00000 n
+0000007435 00000 n
+0000007680 00000 n
+0000007870 00000 n
+0000008072 00000 n
+0000008271 00000 n
+0000008500 00000 n
+0000008682 00000 n
+0000008871 00000 n
+0000009058 00000 n
+0000009237 00000 n
+0000009477 00000 n
+0000009663 00000 n
+0000009851 00000 n
+0000010042 00000 n
+0000010222 00000 n
+0000010419 00000 n
+0000010574 00000 n
+0000010716 00000 n
+0000016605 00000 n
+0000022973 00000 n
+0000030331 00000 n
+0000039743 00000 n
+0000046959 00000 n
+0000047104 00000 n
+0000047181 00000 n
+0000047258 00000 n
+0000047335 00000 n
+0000047412 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\0203\225tyu\33314\265\271K>\202\200>) (\0203\225tyu\33314\265\271K>\202\200>)] 
+ [(\265\240\310\223\324\300;\263\002PW\037|\336\000-) (\265\240\310\223\324\300;\263\002PW\037|\336\000-)] 
 
- /Info 22 0 R
- /Root 21 0 R
- /Size 57 >>
+ /Info 23 0 R
+ /Root 22 0 R
+ /Size 60 >>
 startxref
-43707
+47459
 %%EOF
