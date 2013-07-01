@@ -69,9 +69,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 115.8724
+ 103.8724
  107.6929
- 127.8724 ]
+ 115.8724 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -84,9 +84,9 @@ endobj
  0
  0 ]
  /Rect [ 140.6929
- 115.8724
+ 103.8724
  222.5659
- 127.8724 ]
+ 115.8724 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -120,9 +120,9 @@ endobj
  0
  0 ]
  /Rect [ 117.6407
- 699.7589
+ 681.7589
  544.8593
- 711.7589 ]
+ 693.7589 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -135,9 +135,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 533.5924
+ 515.5924
  140.7039
- 545.5924 ]
+ 527.5924 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -150,9 +150,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 503.5924
+ 485.5924
  201.2574
- 515.5924 ]
+ 497.5924 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -174,9 +174,9 @@ endobj
  0
  0 ]
  /Rect [ 383.9221
- 110.8995
+ 92.89949
  475.1616
- 122.8995 ]
+ 104.8995 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -232,7 +232,7 @@ endobj
  0 ]
  /Rect [ 68.69291
  370.2459
- 261.5831
+ 293.7614
  382.2459 ]
  /Subtype /Link
  /Type /Annot >>
@@ -245,7 +245,7 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 273.5831
+ /Rect [ 305.7614
  370.2459
  543.3071
  382.2459 ]
@@ -262,7 +262,7 @@ endobj
  0 ]
  /Rect [ 68.69291
  286.2459
- 261.5831
+ 293.7614
  298.2459 ]
  /Subtype /Link
  /Type /Annot >>
@@ -275,7 +275,7 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 273.5831
+ /Rect [ 305.7614
  286.2459
  543.3071
  298.2459 ]
@@ -292,7 +292,7 @@ endobj
  0 ]
  /Rect [ 68.69291
  214.2459
- 261.5831
+ 293.7614
  226.2459 ]
  /Subtype /Link
  /Type /Annot >>
@@ -333,7 +333,7 @@ endobj
 % 'R23': class PDFInfo 
 23 0 obj
 << /Author ()
- /CreationDate (D:20130629224220+06'00')
+ /CreationDate (D:20130701134438+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -438,7 +438,7 @@ endobj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
- 333.7739
+ 321.7739
  0 ]
  /Parent 30 0 R
  /Prev 31 0 R
@@ -449,7 +449,7 @@ endobj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
- 161.0674
+ 149.0674
  0 ]
  /Next 34 0 R
  /Parent 24 0 R
@@ -461,7 +461,7 @@ endobj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
- 578.7874
+ 560.7874
  0 ]
  /Next 35 0 R
  /Parent 24 0 R
@@ -473,7 +473,7 @@ endobj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
- 454.6209
+ 436.6209
  0 ]
  /Next 36 0 R
  /Parent 24 0 R
@@ -486,7 +486,7 @@ endobj
  /Dest [ 14 0 R
  /XYZ
  62.69291
- 264.4545
+ 246.4545
  0 ]
  /First 37 0 R
  /Last 40 0 R
@@ -500,7 +500,7 @@ endobj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
- 234.6345
+ 216.6345
  0 ]
  /Next 38 0 R
  /Parent 36 0 R
@@ -511,7 +511,7 @@ endobj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
- 189.4545
+ 171.4545
  0 ]
  /Next 39 0 R
  /Parent 36 0 R
@@ -639,7 +639,7 @@ endobj
 % 'R49': class PDFStream 
 49 0 obj
 % page stream
-<< /Length 5790 >>
+<< /Length 5914 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -665,7 +665,7 @@ q
 1 0 0 1 62.69291 630.7339 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 187.0971 0 Td (\(Updated on 2013-06-29\)) Tj T* -187.0971 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 187.0971 0 Td (\(Updated on 2013-07-01\)) Tj T* -187.0971 0 Td ET
 Q
 Q
 q
@@ -851,10 +851,10 @@ BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 202.9811 0 Td (\(with Jason Duan\)) Tj T* -202
 Q
 Q
 q
-1 0 0 1 62.69291 95.87449 cm
+1 0 0 1 62.69291 83.87449 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 145 Tm /F1 11 Tf 12 TL .89401 Tw (This paper studies the impact of the used goods market on overall market outcomes and the implications of) Tj T* 0 Tw 3.486727 Tw (eliminating used goods in the video game industry. We develop a general modeling framework that) Tj T* 0 Tw .465936 Tw (incorporates rational expectations on new and used goods prices, inter-temporal pricing discrimination, and a) Tj T* 0 Tw .453431 Tw (competitive used goods market. The demand function is constructed from heterogeneous consumers modeled) Tj T* 0 Tw .40251 Tw (by a distribution of their valuation on a Hotelling line, which enables us to estimate sales volume shares over) Tj T* 0 Tw .388454 Tw (time from the varying decreasing rates of new and used goods prices without the need of observing real sales) Tj T* 0 Tw 1.180198 Tw (data. The equilibrium prices and sales for both new and used game markets are solved explicitly assuming) Tj T* 0 Tw .705535 Tw (that the observed new game prices are set optimally by firms and the used game prices clear the used goods) Tj T* 0 Tw .541084 Tw (market. A producer\222s inter-temporal pricing strategy is determined not only for price discrimination, but also) Tj T* 0 Tw .349167 Tw (from considering competition with the resale market. We estimate game specific demand with hand-collected) Tj T* 0 Tw .736727 Tw (prices data. Counterfactual analysis suggests the used game market significantly harms most games in terms) Tj T* 0 Tw 2.642678 Tw (of profitability, but can still benefit a smaller number of games, depending on the consumer valuation) Tj T* 0 Tw (distribution and expected playtime.) Tj T* ET
+BT 1 0 0 1 0 157 Tm /F1 11 Tf 12 TL .472073 Tw (This paper studies how the used goods market affects market outcomes and the implications of eliminating it) Tj T* 0 Tw .171798 Tw (in the video game industry. We develop a general modeling framework that incorporates rational expectations) Tj T* 0 Tw .260812 Tw (on new and used goods prices, inter-temporal price discrimination, and a competitive used goods market. The) Tj T* 0 Tw .060227 Tw (demand function is constructed from heterogeneous consumers modeled by a distribution of their valuation on) Tj T* 0 Tw .122716 Tw (a Hotelling line, which enables us to estimate sales volume shares over time from the varying decreasing rates) Tj T* 0 Tw .540621 Tw (of new and used goods prices without the need of observing real sales data. The equilibrium prices and sales) Tj T* 0 Tw .150732 Tw (for both new and used game markets are solved explicitly assuming that the observed new game prices are set) Tj T* 0 Tw 3.764678 Tw (optimally by firms and the used game prices clear a competitive used goods market. A producer\222s) Tj T* 0 Tw 1.991552 Tw (inter-temporal pricing strategy is determined not only for price discrimination, but also from considering) Tj T* 0 Tw .192227 Tw (competition from the resale market. Using this model, we estimate game specific demand with hand-collected) Tj T* 0 Tw 4.010798 Tw (prices data. Counterfactual analysis suggests the used game market harms most games in terms of) Tj T* 0 Tw 3.68237 Tw (profitability, but can still benefit a smaller number of games, depending on the consumer valuation) Tj T* 0 Tw 1.475398 Tw (distribution and expected playtime. Hence the results imply different optimal strategies regarding the used) Tj T* 0 Tw (goods market for different games.) Tj T* ET
 Q
 Q
  
@@ -863,7 +863,7 @@ endobj
 % 'R50': class PDFStream 
 50 0 obj
 % page stream
-<< /Length 6269 >>
+<< /Length 5908 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -899,43 +899,43 @@ BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (A Model of Downloadable Con
 Q
 Q
 q
-1 0 0 1 62.69291 345.7739 cm
+1 0 0 1 62.69291 333.7739 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 73 Tm /F1 11 Tf 12 TL .950573 Tw (I study the profit implications and optimal release schedule of add-on packages in the video game industry.) Tj T* 0 Tw 2.056761 Tw (An add-on extends the durability of a video game by providing new maps and additional missions. The) Tj T* 0 Tw .561378 Tw (original disc is required in order to play the add-on and if consumers expect the future release of the add-on,) Tj T* 0 Tw .56022 Tw (they will hold on the game even after they finished the game. This will effectively reduce the inflow of used) Tj T* 0 Tw 1.110775 Tw (copy supply, alleviating the threat from the used goods market for producers. I plan to extend the dynamic) Tj T* 0 Tw 1.560481 Tw (structural model in my job market paper to include releasing add-ons as another control for the firm, and) Tj T* 0 Tw (assess the profit implications of add-ons and also their optimal release schedule.) Tj T* ET
+BT 1 0 0 1 0 85 Tm /F1 11 Tf 12 TL 2.859073 Tw (I extend the model in the first essay to examine the implications of an additional marketing strategy,) Tj T* 0 Tw .493013 Tw (post-release add-ons. Many video game producers release add-ons called downloadable contents \(DLC\) for a) Tj T* 0 Tw 1.54301 Tw (relatively low price, which extend playing time of their video games. This can be an effective strategy to) Tj T* 0 Tw .692176 Tw (reduce competition from the used goods market. This is because in order to play the DLC, a consumer must) Tj T* 0 Tw .546812 Tw (physically have the original copy of the game; hence, forward-looking consumers who anticipate that a DLC) Tj T* 0 Tw 1.58843 Tw (will be released in the near future will likely to hold on to their disc rather than selling them, effectively) Tj T* 0 Tw 1.781727 Tw (reducing the used copy supply. Counterfactual analysis will shed light on profit implications and optimal) Tj T* 0 Tw (release-timing of the DLC.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 303.4139 cm
+1 0 0 1 62.69291 291.4139 cm
 q
 BT 1 0 0 1 0 17.71 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Measuring Benefits from Bilateral Free Trade Agreement: A Dynamic Structural) Tj T* (Approach) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 201.4139 cm
+1 0 0 1 62.69291 189.4139 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 85 Tm /F1 11 Tf 12 TL .741573 Tw (I quantify the consumer welfare gains and supplier profit changes from the FTAs in the Korean Automotive) Tj T* 0 Tw .568812 Tw (Industry. Recently South Korea has negotiated a couple of major bilateral free trade agreements \(FTAs\), one) Tj T* 0 Tw .577309 Tw (with EU and the other with the U.S., which have come into force in 2011 and 2012, respectively. Due to the) Tj T* 0 Tw 1.791278 Tw (significant time gap between the announcement of an agreement and the actual date when the agreement) Tj T* 0 Tw 1.430552 Tw (enters into effect, durable goods consumers might postpone purchase, expecting future price decline. Thus) Tj T* 0 Tw 2.769652 Tw (modeling dynamics is important in the welfare calculation. Utilizing unique, hand-collected automotive) Tj T* 0 Tw 1.760552 Tw (characteristics information and aggregate level sales data, I estimate dynamic new durable goods demand) Tj T* 0 Tw (model and conduct counterfactual analysis to measure the welfare gains and profit implications.) Tj T* ET
+BT 1 0 0 1 0 85 Tm /F1 11 Tf 12 TL 2.115412 Tw (I estimate dynamic structural model to quantify the impact of bilateral free trade agreements \(FTAs\) on) Tj T* 0 Tw 2.613345 Tw (consumer welfare and firms' profit in the Korean automobile industry. Due to the significant time gap) Tj T* 0 Tw 2.747545 Tw (between the announcement of FTAs and the actual date when FTAs enter into effect, consumers may) Tj T* 0 Tw 1.149629 Tw (postpone automobile purchases, expecting future price decline once the agreements come into effect. Thus,) Tj T* 0 Tw 2.256212 Tw (modeling dynamics is crucial in calculating the impact of such agreements. Using a unique dataset that) Tj T* 0 Tw 2.897264 Tw (consists of hand-collected automotive characteristics information, I use a dynamic demand model with) Tj T* 0 Tw 3.690652 Tw (random coefficients to estimate new automotive demands, and conduct counterfactual analyses under) Tj T* 0 Tw (different tariff levels to measure the effects of FTAs.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 173.0674 cm
+1 0 0 1 62.69291 161.0674 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 143.2474 cm
+1 0 0 1 62.69291 131.2474 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Honors & Awards) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 131.2474 cm
-Q
-q
-1 0 0 1 62.69291 131.2474 cm
+1 0 0 1 62.69291 119.2474 cm
 Q
 q
 1 0 0 1 62.69291 119.2474 cm
+Q
+q
+1 0 0 1 62.69291 107.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -948,17 +948,17 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 .501961 rg (2011) Tj 0 0 0 rg (, 2013, ) Tj 0 0 .501961 rg (SciPy Conference ) Tj 0 0 0 rg (Student Sponsorship) Tj T* ET
+BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 .501961 rg (2011) Tj 0 0 0 rg (, 2013, ) Tj 0 0 .501961 rg (SciPy Conference ) Tj 0 0 0 rg (\(Scientific Python\) Student Sponsorship) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 113.2474 cm
 Q
 q
 1 0 0 1 62.69291 101.2474 cm
+Q
+q
+1 0 0 1 62.69291 89.2474 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -979,10 +979,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 95.2474 cm
-Q
-q
 1 0 0 1 62.69291 83.2474 cm
+Q
+ 
+endstream
+endobj
+% 'R51': class PDFStream 
+51 0 obj
+% page stream
+<< /Length 7652 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 703.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1003,19 +1012,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 77.2474 cm
+1 0 0 1 62.69291 697.1339 cm
 Q
- 
-endstream
-endobj
-% 'R51': class PDFStream 
-51 0 obj
-% page stream
-<< /Length 7259 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 691.1339 cm
+1 0 0 1 62.69291 673.1339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1029,30 +1029,6 @@ q
 1 0 0 1 23 -3 cm
 q
 BT 1 0 0 1 0 13 Tm 4.447772 Tw 12 TL /F1 11 Tf 0 0 0 rg (2010, ) Tj 0 0 .501961 rg (Columbia-Duke-UCLA Workshop on Quantitative Marketing and Structural Econometrics) Tj  T* 0 Tw 0 0 0 rg (Funding) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 685.1339 cm
-Q
-q
-1 0 0 1 62.69291 673.1339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2006, Brain Korea 21 Scholarship, Sogang University) Tj T* ET
 Q
 Q
 q
@@ -1076,7 +1052,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2005, Graduate School Department Scholarship, Sogang University) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2006, Brain Korea 21 Scholarship, Sogang University) Tj T* ET
 Q
 Q
 q
@@ -1100,7 +1076,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2005, Unbong Scholarship Foundation Scholarship, Korea) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2005, Graduate School Department Scholarship, Sogang University) Tj T* ET
 Q
 Q
 q
@@ -1124,6 +1100,30 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2005, Unbong Scholarship Foundation Scholarship, Korea) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 613.1339 cm
+Q
+q
+1 0 0 1 62.69291 601.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2003-2004, Undergraduate Distinguished Student Scholarship, Sogang University) Tj T* ET
 Q
 Q
@@ -1131,26 +1131,26 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 619.1339 cm
+1 0 0 1 62.69291 601.1339 cm
 Q
 q
-1 0 0 1 62.69291 590.7874 cm
+1 0 0 1 62.69291 572.7874 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 560.9674 cm
+1 0 0 1 62.69291 542.9674 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Software Packages Authored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 548.9674 cm
+1 0 0 1 62.69291 530.9674 cm
 Q
 q
-1 0 0 1 62.69291 548.9674 cm
+1 0 0 1 62.69291 530.9674 cm
 Q
 q
-1 0 0 1 62.69291 524.9674 cm
+1 0 0 1 62.69291 506.9674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1170,10 +1170,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 518.9674 cm
+1 0 0 1 62.69291 500.9674 cm
 Q
 q
-1 0 0 1 62.69291 494.9674 cm
+1 0 0 1 62.69291 476.9674 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1193,26 +1193,26 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 494.9674 cm
+1 0 0 1 62.69291 476.9674 cm
 Q
 q
-1 0 0 1 62.69291 466.6209 cm
+1 0 0 1 62.69291 448.6209 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 436.8009 cm
+1 0 0 1 62.69291 418.8009 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Colloquia/Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 424.8009 cm
+1 0 0 1 62.69291 406.8009 cm
 Q
 q
-1 0 0 1 62.69291 424.8009 cm
+1 0 0 1 62.69291 406.8009 cm
 Q
 q
-1 0 0 1 62.69291 388.8009 cm
+1 0 0 1 62.69291 370.8009 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1232,10 +1232,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 382.8009 cm
+1 0 0 1 62.69291 364.8009 cm
 Q
 q
-1 0 0 1 62.69291 346.8009 cm
+1 0 0 1 62.69291 328.8009 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1255,10 +1255,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 340.8009 cm
+1 0 0 1 62.69291 322.8009 cm
 Q
 q
-1 0 0 1 62.69291 304.8009 cm
+1 0 0 1 62.69291 286.8009 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1278,45 +1278,45 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 304.8009 cm
+1 0 0 1 62.69291 286.8009 cm
 Q
 q
-1 0 0 1 62.69291 276.4545 cm
+1 0 0 1 62.69291 258.4545 cm
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 246.6345 cm
+1 0 0 1 62.69291 228.6345 cm
 q
 BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Teaching) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 219.4545 cm
+1 0 0 1 62.69291 201.4545 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Teaching Interests) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 201.4545 cm
+1 0 0 1 62.69291 183.4545 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Principles of Marketing, Marketing Research, Pricing, and Data Mining.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.2745 cm
+1 0 0 1 62.69291 156.2745 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Instructor) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 162.2745 cm
+1 0 0 1 62.69291 144.2745 cm
 Q
 q
-1 0 0 1 62.69291 162.2745 cm
+1 0 0 1 62.69291 144.2745 cm
 Q
 q
-1 0 0 1 62.69291 132.2745 cm
+1 0 0 1 62.69291 114.2745 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1367,10 +1367,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 126.2745 cm
+1 0 0 1 62.69291 108.2745 cm
 Q
 q
-1 0 0 1 62.69291 102.2745 cm
+1 0 0 1 62.69291 84.27449 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1390,7 +1390,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 102.2745 cm
+1 0 0 1 62.69291 84.27449 cm
 Q
  
 endstream
@@ -2035,7 +2035,7 @@ endobj
 % 'R53': class PDFStream 
 53 0 obj
 % page stream
-<< /Length 7113 >>
+<< /Length 7097 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2283,45 +2283,45 @@ q
 1 0 0 1 6 171 cm
 Q
 q
-1 0 0 1 210.8902 243 cm
+1 0 0 1 243.0684 243 cm
 Q
 q
-1 0 0 1 210.8902 231 cm
+1 0 0 1 243.0684 231 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Leigh McAlister) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 219 cm
+1 0 0 1 243.0684 219 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Ed and Molly Smith Chair in Business Administration) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Professor, Ed and Molly Smith Chair) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 207 cm
+1 0 0 1 243.0684 207 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (McCombs School of Business) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 195 cm
+1 0 0 1 243.0684 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 183 cm
+1 0 0 1 243.0684 183 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 471-5458) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 171 cm
+1 0 0 1 243.0684 171 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -2329,7 +2329,7 @@ BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (leigh.mcalister@mccombs.utexas.edu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 171 cm
+1 0 0 1 243.0684 171 cm
 Q
 q
 1 0 0 1 6 159 cm
@@ -2381,45 +2381,45 @@ q
 1 0 0 1 6 87 cm
 Q
 q
-1 0 0 1 210.8902 159 cm
+1 0 0 1 243.0684 159 cm
 Q
 q
-1 0 0 1 210.8902 147 cm
+1 0 0 1 243.0684 147 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Raghunath S. Rao) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 135 cm
+1 0 0 1 243.0684 135 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Assistant Professor of Marketing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 123 cm
+1 0 0 1 243.0684 123 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (McCombs School of Business) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 111 cm
+1 0 0 1 243.0684 111 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Texas at Austin) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 99 cm
+1 0 0 1 243.0684 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (+1 \(512\) 232-3748) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 87 cm
+1 0 0 1 243.0684 87 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -2427,7 +2427,7 @@ BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Raghunath.Rao@mccombs.utexas.edu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 210.8902 87 cm
+1 0 0 1 243.0684 87 cm
 Q
 q
 1 0 0 1 6 75 cm
@@ -2485,7 +2485,7 @@ q
 .25 w
 n 0 168 m 486.6142 168 l S
 n 0 84 m 486.6142 84 l S
-n 204.8902 0 m 204.8902 252 l S
+n 237.0684 0 m 237.0684 252 l S
 n 0 252 m 486.6142 252 l S
 n 0 0 m 486.6142 0 l S
 n 0 0 m 0 252 l S
@@ -2594,24 +2594,24 @@ xref
 0000010419 00000 n
 0000010574 00000 n
 0000010716 00000 n
-0000016605 00000 n
-0000022973 00000 n
-0000030331 00000 n
-0000039743 00000 n
-0000046959 00000 n
-0000047104 00000 n
-0000047181 00000 n
-0000047258 00000 n
-0000047335 00000 n
-0000047412 00000 n
+0000016729 00000 n
+0000022736 00000 n
+0000030487 00000 n
+0000039899 00000 n
+0000047099 00000 n
+0000047244 00000 n
+0000047321 00000 n
+0000047398 00000 n
+0000047475 00000 n
+0000047552 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(RV\313\270\013Z\017\257\224\367.m\003\037\0127) (RV\313\270\013Z\017\257\224\367.m\003\037\0127)] 
+ [(\211B\014\314\013\341g,\265\226\3459\226\300\030W) (\211B\014\314\013\341g,\265\226\3459\226\300\030W)] 
 
  /Info 23 0 R
  /Root 22 0 R
  /Size 60 >>
 startxref
-47459
+47599
 %%EOF
