@@ -5,7 +5,7 @@
 % The standard fonts dictionary
 << /F1 2 0 R
  /F2 3 0 R
- /F3 7 0 R >>
+ /F3 5 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -40,8 +40,17 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page1': class PDFPage 
+% 'F3': class PDFType1Font 
 5 0 obj
+% Font Times-Italic
+<< /BaseFont /Times-Italic
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
 % Page dictionary
 << /Annots [ 4 0 R ]
  /Contents 52 0 R
@@ -61,7 +70,7 @@ endobj
  /Type /Page >>
 endobj
 % 'Page2': class PDFPage 
-6 0 obj
+7 0 obj
 % Page dictionary
 << /Contents 53 0 R
  /MediaBox [ 0
@@ -78,15 +87,6 @@ endobj
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
-endobj
-% 'F3': class PDFType1Font 
-7 0 obj
-% Font Times-Italic
-<< /BaseFont /Times-Italic
- /Encoding /WinAnsiEncoding
- /Name /F3
- /Subtype /Type1
- /Type /Font >>
 endobj
 % 'Annot.NUMBER2': class PDFDictionary 
 8 0 obj
@@ -141,9 +141,9 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 383.9221
+ /Rect [ 284.0582
  179.7059
- 475.1616
+ 374.4989
  191.7059 ]
  /Subtype /Link
  /Type /Annot >>
@@ -250,9 +250,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 633.7589
+ 603.9389
  293.7614
- 645.7589 ]
+ 615.9389 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -265,9 +265,9 @@ endobj
  0
  0 ]
  /Rect [ 305.7614
- 633.7589
+ 603.9389
  543.3071
- 645.7589 ]
+ 615.9389 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -280,9 +280,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 549.7589
+ 519.9389
  293.7614
- 561.7589 ]
+ 531.9389 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -295,9 +295,9 @@ endobj
  0
  0 ]
  /Rect [ 305.7614
- 549.7589
+ 519.9389
  543.3071
- 561.7589 ]
+ 531.9389 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -310,9 +310,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 477.7589
+ 447.9389
  293.7614
- 489.7589 ]
+ 459.9389 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -352,7 +352,7 @@ endobj
 % 'R24': class PDFInfo 
 24 0 obj
 << /Author ()
- /CreationDate (D:20131130160754+06'00')
+ /CreationDate (D:20131201005659+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -368,7 +368,7 @@ endobj
 endobj
 % 'Outline.0': class OutlineEntryObject 
 26 0 obj
-<< /Dest [ 5 0 R
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  590.3874
@@ -379,7 +379,7 @@ endobj
 endobj
 % 'Outline.1': class OutlineEntryObject 
 27 0 obj
-<< /Dest [ 5 0 R
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  431.2209
@@ -392,7 +392,7 @@ endobj
 % 'Outline.2': class OutlineEntryObject 
 28 0 obj
 << /Count 2
- /Dest [ 5 0 R
+ /Dest [ 6 0 R
  /XYZ
  62.69291
  333.0545
@@ -406,7 +406,7 @@ endobj
 endobj
 % 'Outline.26.0': class OutlineEntryObject 
 29 0 obj
-<< /Dest [ 5 0 R
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  303.2345
@@ -417,7 +417,7 @@ endobj
 endobj
 % 'Outline.26.1': class OutlineEntryObject 
 30 0 obj
-<< /Dest [ 6 0 R
+<< /Dest [ 7 0 R
  /XYZ
  62.69291
  715.1339
@@ -429,7 +429,7 @@ endobj
 % 'Outline.3': class OutlineEntryObject 
 31 0 obj
 << /Count 3
- /Dest [ 6 0 R
+ /Dest [ 7 0 R
  /XYZ
  62.69291
  492.7739
@@ -443,7 +443,7 @@ endobj
 endobj
 % 'Outline.27.0': class OutlineEntryObject 
 32 0 obj
-<< /Dest [ 6 0 R
+<< /Dest [ 7 0 R
  /XYZ
  62.69291
  462.9539
@@ -454,7 +454,7 @@ endobj
 endobj
 % 'Outline.27.1': class OutlineEntryObject 
 33 0 obj
-<< /Dest [ 6 0 R
+<< /Dest [ 7 0 R
  /XYZ
  62.69291
  321.7739
@@ -659,10 +659,10 @@ endobj
 endobj
 % 'Outline.11': class OutlineEntryObject 
 50 0 obj
-<< /Dest [ 16 0 R
+<< /Dest [ 22 0 R
  /XYZ
  62.69291
- 110.0809
+ 715.1339
  0 ]
  /Parent 25 0 R
  /Prev 49 0 R
@@ -672,8 +672,8 @@ endobj
 51 0 obj
 % page tree
 << /Count 6
- /Kids [ 5 0 R
- 6 0 R
+ /Kids [ 6 0 R
+ 7 0 R
  12 0 R
  15 0 R
  16 0 R
@@ -683,7 +683,7 @@ endobj
 % 'R52': class PDFStream 
 52 0 obj
 % page stream
-<< /Length 6567 >>
+<< /Length 6653 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -709,7 +709,7 @@ q
 1 0 0 1 62.69291 630.7339 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 168.9196 0 Td (\(Updated on November 30, 2013\)) Tj T* -168.9196 0 Td ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 169.5356 0 Td (\(Updated on December 01, 2013\)) Tj T* -169.5356 0 Td ET
 Q
 Q
 q
@@ -937,8 +937,7 @@ Q
 q
 1 0 0 1 62.69291 254.8745 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (\(with Jason Duan\)) Tj T* ET
+BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (\(with Jason Duan, to be submitted to ) Tj /F3 11 Tf (Marketing Science ) Tj /F1 11 Tf (in February 2014\)) Tj T* ET
 Q
 Q
 q
@@ -954,7 +953,7 @@ endobj
 % 'R53': class PDFStream 
 53 0 obj
 % page stream
-<< /Length 4768 >>
+<< /Length 4841 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -966,15 +965,14 @@ Q
 q
 1 0 0 1 62.69291 666.7739 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (\(with Romana Khan\)) Tj T* ET
+BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (\(with Romana Khan, to be submitted to ) Tj /F3 11 Tf (Marketing Science ) Tj /F1 11 Tf (in January 2014\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 504.7739 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 145 Tm /F1 11 Tf 12 TL .043073 Tw (We study consumers' variety seeking in hedonic goods consumption and the impact of consumer ratings in the) Tj T* 0 Tw 2.747167 Tw (context of movie choice. While consumers are expected to engage in variety-seeking when consuming) Tj T* 0 Tw 2.154859 Tw (hedonic goods, uncertainty about product quality may mitigate this tendency. Exposure to online ratings) Tj T* 0 Tw .584298 Tw (information is likely to alleviate this uncertainty, and could facilitate more variety-seeking behavior. Using a) Tj T* 0 Tw 3.381264 Tw (unique, individual-level dataset of movie-going, we estimate a choice model which incorporates state) Tj T* 0 Tw .086941 Tw (dependence, persistent consumer preferences, and the impact of consumer ratings. We find that consumers are) Tj T* 0 Tw .557121 Tw (likely to seek variety in movie genres when watching multiple movies a day. However, after just a day since) Tj T* 0 Tw .79509 Tw (the previous movie-watching, consumers start to display positive state-dependence in their choice of genres,) Tj T* 0 Tw 3.763945 Tw (meaning they tend to watch similar genres again. This suggests that inertia is a general behavioral) Tj T* 0 Tw 1.148783 Tw (phenomenon rather than a unique characteristic of shopping for more utilitarian consumer packaged goods.) Tj T* 0 Tw 1.401878 Tw (Importantly, we find that positive movie ratings provided by other consumers can overcome the effects of) Tj T* 0 Tw .697951 Tw (inertia, as the impact of positive ratings are more prominent when the genre of the subsequent movie differs) Tj T* 0 Tw (from the that of the previously viewed one.) Tj T* ET
+BT 1 0 0 1 0 145 Tm /F1 11 Tf 12 TL .043073 Tw (We study consumers' variety seeking in hedonic goods consumption and the impact of consumer ratings in the) Tj T* 0 Tw 2.747167 Tw (context of movie choice. While consumers are expected to engage in variety-seeking when consuming) Tj T* 0 Tw 2.154859 Tw (hedonic goods, uncertainty about product quality may mitigate this tendency. Exposure to online ratings) Tj T* 0 Tw .584298 Tw (information is likely to alleviate this uncertainty, and could facilitate more variety-seeking behavior. Using a) Tj T* 0 Tw 3.381264 Tw (unique, individual-level dataset of movie-going, we estimate a choice model which incorporates state) Tj T* 0 Tw .086941 Tw (dependence, persistent consumer preferences, and the impact of consumer ratings. We find that consumers are) Tj T* 0 Tw .557121 Tw (likely to seek variety in movie genres when watching multiple movies a day. However, after just a day since) Tj T* 0 Tw .79509 Tw (the previous movie-watching, consumers start to display positive state-dependence in their choice of genres,) Tj T* 0 Tw 3.763945 Tw (meaning they tend to watch similar genres again. This suggests that inertia is a general behavioral) Tj T* 0 Tw 1.148783 Tw (phenomenon rather than a unique characteristic of shopping for more utilitarian consumer packaged goods.) Tj T* 0 Tw .206011 Tw (Importantly, we find that positive movie ratings provided by other consumers can overcome the inertia, as the) Tj T* 0 Tw .115899 Tw (impact of positive ratings are more prominent when the genre of the subsequent movie differs from the that of) Tj T* 0 Tw (the previously viewed one.) Tj T* ET
 Q
 Q
 q
@@ -1015,7 +1013,7 @@ endobj
 % 'R54': class PDFStream 
 54 0 obj
 % page stream
-<< /Length 8306 >>
+<< /Length 8283 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1362,7 +1360,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 13 Tm 1.020244 Tw 12 TL /F1 11 Tf 0 0 0 rg (2012, Instructor for ) Tj /F3 11 Tf (Numerical Computation with Numpy ) Tj /F1 11 Tf (at 2012 ) Tj 0 0 .501961 rg (Software Carpentry ) Tj 0 0 0 rg (Bootcamp at the) Tj T* 0 Tw (University of Texas at Austin) Tj T* ET
+BT 1 0 0 1 0 13 Tm .620859 Tw 12 TL /F1 11 Tf 0 0 0 rg (2012, ) Tj /F3 11 Tf (Numerical Computation with Numpy) Tj /F1 11 Tf (, ) Tj 0 0 .501961 rg (Software Carpentry ) Tj 0 0 0 rg (bootcamp at the University of Texas at) Tj T* 0 Tw (Austin) Tj T* ET
 Q
 Q
 q
@@ -1940,7 +1938,7 @@ endobj
 % 'R56': class PDFStream 
 56 0 obj
 % page stream
-<< /Length 9311 >>
+<< /Length 9194 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2546,13 +2544,7 @@ q
 n 0 14.17323 m 486.6142 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 92.26094 cm
-q
-BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (References) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 80.26094 cm
+1 0 0 1 62.69291 122.0809 cm
 Q
  
 endstream
@@ -2560,11 +2552,20 @@ endobj
 % 'R57': class PDFStream 
 57 0 obj
 % page stream
-<< /Length 4258 >>
+<< /Length 4411 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 463.1339 cm
+1 0 0 1 62.69291 697.3139 cm
+q
+BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.3139 cm
+Q
+q
+1 0 0 1 62.69291 433.3139 cm
 1 1 1 rg
 n 0 252 486.6142 -84 re f*
 1 1 1 rg
@@ -2833,7 +2834,7 @@ n 486.6142 0 m 486.6142 252 l S
 Q
 Q
 q
-1 0 0 1 62.69291 463.1339 cm
+1 0 0 1 62.69291 433.3139 cm
 Q
  
 endstream
@@ -2897,9 +2898,9 @@ xref
 0000000233 00000 n
 0000000402 00000 n
 0000000581 00000 n
-0000000808 00000 n
-0000001097 00000 n
-0000001368 00000 n
+0000000810 00000 n
+0000000979 00000 n
+0000001268 00000 n
 0000001551 00000 n
 0000001818 00000 n
 0000002074 00000 n
@@ -2945,26 +2946,26 @@ xref
 0000012932 00000 n
 0000013087 00000 n
 0000013238 00000 n
-0000019904 00000 n
-0000024771 00000 n
-0000033176 00000 n
-0000041307 00000 n
-0000050717 00000 n
-0000055078 00000 n
-0000055236 00000 n
-0000055313 00000 n
-0000055390 00000 n
-0000055467 00000 n
-0000055544 00000 n
-0000055621 00000 n
+0000019990 00000 n
+0000024930 00000 n
+0000033312 00000 n
+0000041443 00000 n
+0000050736 00000 n
+0000055250 00000 n
+0000055408 00000 n
+0000055485 00000 n
+0000055562 00000 n
+0000055639 00000 n
+0000055716 00000 n
+0000055793 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\325S'}-\364\347'k\007\\\374\264\031\365\025) (\325S'}-\364\347'k\007\\\374\264\031\365\025)] 
+ [(X\025d\253\0046\317\343 \3104\005\211\264\013O) (X\025d\253\0046\317\343 \3104\005\211\264\013O)] 
 
  /Info 24 0 R
  /Root 23 0 R
  /Size 65 >>
 startxref
-55668
+55840
 %%EOF
