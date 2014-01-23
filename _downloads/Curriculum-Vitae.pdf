@@ -148,9 +148,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 520.1041
+ 535.1041
  140.7039
- 532.1041 ]
+ 547.1041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -163,9 +163,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 505.1041
+ 520.1041
  197.8489
- 517.1041 ]
+ 532.1041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -178,9 +178,9 @@ endobj
  0
  0 ]
  /Rect [ 326.4719
- 435.9241
+ 450.9241
  415.6709
- 447.9241 ]
+ 462.9241 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -193,9 +193,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 311.7441
+ 326.7441
  293.7614
- 323.7441 ]
+ 338.7441 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -208,9 +208,9 @@ endobj
  0
  0 ]
  /Rect [ 305.7614
- 311.7441
+ 326.7441
  543.3071
- 323.7441 ]
+ 338.7441 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -223,9 +223,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 227.7441
+ 242.7441
  293.7614
- 239.7441 ]
+ 254.7441 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -238,9 +238,9 @@ endobj
  0
  0 ]
  /Rect [ 305.7614
- 227.7441
+ 242.7441
  543.3071
- 239.7441 ]
+ 254.7441 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -253,9 +253,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 155.7441
+ 170.7441
  293.7614
- 167.7441 ]
+ 182.7441 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -298,7 +298,7 @@ endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140112164752+06'00')
+ /CreationDate (D:20140122231235+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -370,7 +370,7 @@ endobj
  0 ]
  /Parent 25 0 R
  /Prev 26 0 R
- /Title (\376\377\000V\000a\000r\000i\000e\000t\000y\000 \000S\000e\000e\000k\000i\000n\000g\000 \000i\000n\000 \000H\000e\000d\000o\000n\000i\000c\000 \000G\000o\000o\000d\000s\000 \000C\000o\000n\000s\000u\000m\000p\000t\000i\000o\000n\000:\000\012\000E\000v\000i\000d\000e\000n\000c\000e\000 \000f\000r\000o\000m\000 \000t\000h\000e\000 \000M\000o\000v\000i\000e\000 \000T\000h\000e\000a\000t\000e\000r\000 \000I\000n\000d\000u\000s\000t\000r\000y) >>
+ /Title (\376\377\000V\000a\000r\000i\000e\000t\000y\000 \000S\000e\000e\000k\000i\000n\000g\000 \000i\000n\000 \000H\000e\000d\000o\000n\000i\000c\000 \000C\000o\000n\000s\000u\000m\000p\000t\000i\000o\000n\000:\000 \000E\000v\000i\000d\000e\000n\000c\000e\000\012\000f\000r\000o\000m\000 \000t\000h\000e\000 \000M\000o\000v\000i\000e\000 \000I\000n\000d\000u\000s\000t\000r\000y) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
 28 0 obj
@@ -462,7 +462,7 @@ endobj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
- 192.2591
+ 177.2591
  0 ]
  /Next 36 0 R
  /Parent 22 0 R
@@ -587,7 +587,7 @@ endobj
 << /Dest [ 19 0 R
  /XYZ
  62.69291
- 551.3391
+ 566.3391
  0 ]
  /Parent 44 0 R
  /Title (Software Packages Authored) >>
@@ -597,7 +597,7 @@ endobj
 << /Dest [ 19 0 R
  /XYZ
  62.69291
- 483.4791
+ 498.4791
  0 ]
  /Next 47 0 R
  /Parent 22 0 R
@@ -609,7 +609,7 @@ endobj
 << /Dest [ 19 0 R
  /XYZ
  62.69291
- 414.2991
+ 429.2991
  0 ]
  /Parent 22 0 R
  /Prev 46 0 R
@@ -732,7 +732,7 @@ q
 1 0 0 1 20 12 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 11 Tf 12 TL (B.E. Economics, 2005) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F3 11 Tf 12 TL (B.E. Economics, 2005 \(Cum Laude\)) Tj T* ET
 Q
 Q
 q
@@ -870,7 +870,7 @@ Q
 q
 1 0 0 1 62.69291 188.1126 cm
 q
-BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Variety Seeking in Hedonic Goods Consumption: Evidence from the Movie Theater Industry) Tj T* ET
+BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Variety Seeking in Hedonic Consumption: Evidence from the Movie Industry) Tj T* ET
 Q
 Q
 q
@@ -896,7 +896,7 @@ endobj
 % 'R50': class PDFStream 
 50 0 obj
 % page stream
-<< /Length 7879 >>
+<< /Length 8264 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1219,46 +1219,70 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 212.2591 cm
+1 0 0 1 62.69291 211.2591 cm
 Q
 q
-1 0 0 1 62.69291 192.2591 cm
+1 0 0 1 62.69291 202.2591 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
 Q
 q
-1 0 0 1 62.69291 177.0791 cm
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Military Service, 2nd Infantry Division in the U.S. Army, Korea, 2000-2003) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.2591 cm
+Q
+q
+1 0 0 1 62.69291 177.2591 cm
+Q
+q
+1 0 0 1 62.69291 162.0791 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Colloquia/Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 147.0791 cm
+1 0 0 1 62.69291 132.0791 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.172098 Tw ("A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Durability Extension) Tj T* 0 Tw (for Video Games," INFORMS Marketing Science Conference, Boston, MA, 2012.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 142.0791 cm
+1 0 0 1 62.69291 127.0791 cm
 Q
 q
-1 0 0 1 62.69291 112.0791 cm
+1 0 0 1 62.69291 97.07906 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.172098 Tw ("A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Durability Extension) Tj T* 0 Tw (for Video Games," University of Houston Doctoral Symposium, 2012.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 107.0791 cm
+1 0 0 1 62.69291 92.07906 cm
 Q
 q
-1 0 0 1 62.69291 77.07906 cm
+1 0 0 1 62.69291 62.07906 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL .748512 Tw ("Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie Industry," INFORMS) Tj T* 0 Tw (Marketing Science Conference, Houston, TX, 2011.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 77.07906 cm
+1 0 0 1 62.69291 62.07906 cm
 Q
  
 endstream
@@ -2092,7 +2116,7 @@ endobj
 % 'R52': class PDFStream 
 52 0 obj
 % page stream
-<< /Length 9270 >>
+<< /Length 8940 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2215,7 +2239,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (General-Purpose Languages: C, Python) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Programming Languages: C, Python, MATLAB, R) Tj T* ET
 Q
 Q
 q
@@ -2239,56 +2263,32 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Domain-Specific Languages: Gauss, MATLAB, R) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Others: Git, GNU/Linux, HTML, JavaScript, LaTeX, PowerShell, RegEx, SQL, VBA) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 575.3391 cm
+1 0 0 1 62.69291 576.3391 cm
 Q
 q
-1 0 0 1 62.69291 566.3391 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
+1 0 0 1 62.69291 576.3391 cm
 Q
 q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Others: Git, GNU/Linux, HTML, JavaScript, LaTeX, RegEx, VBA) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 561.3391 cm
-Q
-q
-1 0 0 1 62.69291 561.3391 cm
-Q
-q
-1 0 0 1 62.69291 537.4791 cm
+1 0 0 1 62.69291 552.4791 cm
 q
 BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Software Packages Authored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 532.4791 cm
+1 0 0 1 62.69291 547.4791 cm
 Q
 q
-1 0 0 1 62.69291 532.4791 cm
+1 0 0 1 62.69291 547.4791 cm
 Q
 q
-1 0 0 1 62.69291 523.4791 cm
+1 0 0 1 62.69291 538.4791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2308,10 +2308,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 517.4791 cm
+1 0 0 1 62.69291 532.4791 cm
 Q
 q
-1 0 0 1 62.69291 508.4791 cm
+1 0 0 1 62.69291 523.4791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2331,25 +2331,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 503.4791 cm
+1 0 0 1 62.69291 518.4791 cm
 Q
 q
-1 0 0 1 62.69291 483.4791 cm
+1 0 0 1 62.69291 498.4791 cm
 Q
 q
-1 0 0 1 62.69291 468.2991 cm
+1 0 0 1 62.69291 483.2991 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Service) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 463.2991 cm
+1 0 0 1 62.69291 478.2991 cm
 Q
 q
-1 0 0 1 62.69291 463.2991 cm
+1 0 0 1 62.69291 478.2991 cm
 Q
 q
-1 0 0 1 62.69291 454.2991 cm
+1 0 0 1 62.69291 469.2991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2370,10 +2370,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 448.2991 cm
+1 0 0 1 62.69291 463.2991 cm
 Q
 q
-1 0 0 1 62.69291 439.2991 cm
+1 0 0 1 62.69291 454.2991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2393,22 +2393,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 434.2991 cm
+1 0 0 1 62.69291 449.2991 cm
 Q
 q
-1 0 0 1 62.69291 414.2991 cm
+1 0 0 1 62.69291 429.2991 cm
 Q
 q
-1 0 0 1 62.69291 399.1191 cm
+1 0 0 1 62.69291 414.1191 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 393.1191 cm
+1 0 0 1 62.69291 408.1191 cm
 Q
 q
-1 0 0 1 62.69291 141.1191 cm
+1 0 0 1 62.69291 156.1191 cm
 1 1 1 rg
 n 0 252 486.6142 -84 re f*
 1 1 1 rg
@@ -2677,7 +2677,7 @@ n 486.6142 0 m 486.6142 252 l S
 Q
 Q
 q
-1 0 0 1 62.69291 141.1191 cm
+1 0 0 1 62.69291 156.1191 cm
 Q
  
 endstream
@@ -2748,44 +2748,44 @@ xref
 0000005663 00000 n
 0000005897 00000 n
 0000006156 00000 n
-0000006757 00000 n
-0000006993 00000 n
-0000007223 00000 n
-0000007802 00000 n
-0000008423 00000 n
-0000008616 00000 n
-0000008811 00000 n
-0000009019 00000 n
-0000009217 00000 n
-0000009406 00000 n
-0000009598 00000 n
-0000009835 00000 n
-0000010008 00000 n
-0000010199 00000 n
-0000010370 00000 n
-0000010616 00000 n
-0000010782 00000 n
-0000011023 00000 n
-0000011196 00000 n
-0000011380 00000 n
-0000011535 00000 n
-0000011668 00000 n
-0000018503 00000 n
-0000026481 00000 n
-0000039213 00000 n
-0000048586 00000 n
-0000048718 00000 n
-0000048795 00000 n
-0000048872 00000 n
-0000048949 00000 n
+0000006687 00000 n
+0000006923 00000 n
+0000007153 00000 n
+0000007732 00000 n
+0000008353 00000 n
+0000008546 00000 n
+0000008741 00000 n
+0000008949 00000 n
+0000009147 00000 n
+0000009336 00000 n
+0000009528 00000 n
+0000009765 00000 n
+0000009938 00000 n
+0000010129 00000 n
+0000010300 00000 n
+0000010546 00000 n
+0000010712 00000 n
+0000010953 00000 n
+0000011126 00000 n
+0000011310 00000 n
+0000011465 00000 n
+0000011598 00000 n
+0000018433 00000 n
+0000026796 00000 n
+0000039528 00000 n
+0000048571 00000 n
+0000048703 00000 n
+0000048780 00000 n
+0000048857 00000 n
+0000048934 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\277\220\337~\305\274\262_\251Ig4<x]\211) (\277\220\337~\305\274\262_\251Ig4<x]\211)] 
+ [(rQ\341"\355\012\244FPo\335;\231\002\005C) (rQ\341"\355\012\244FPo\335;\231\002\005C)] 
 
  /Info 21 0 R
  /Root 20 0 R
  /Size 58 >>
 startxref
-48996
+48981
 %%EOF
