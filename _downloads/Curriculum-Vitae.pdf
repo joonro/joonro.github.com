@@ -298,7 +298,7 @@ endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140210145951+06'00')
+ /CreationDate (D:20140219110609+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -628,7 +628,7 @@ endobj
 % 'R49': class PDFStream 
 49 0 obj
 % page stream
-<< /Length 6741 >>
+<< /Length 6805 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -864,7 +864,7 @@ q
 1 0 0 1 62.69291 211.9726 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 102.9 Tm /F1 10.5 Tf 12.6 TL 1.039621 Tw (I develop a dynamic structural model of how the used goods market for video games impacts firms' pricing and) Tj T* 0 Tw .118917 Tw (profits. I simulate profit changes when resale is prohibited, e.g., through digital distribution of the product. Without) Tj T* 0 Tw .57701 Tw (used goods transaction data, I incorporate the supply side in the estimation, and infer sales volume from observed) Tj T* 0 Tw .268187 Tw (prices and equilibrium conditions. Using data collected from an online retailer, I find that the effects of prohibiting) Tj T* 0 Tw 1.023886 Tw (resale depend on the video game's demand function: the prohibition significantly increases the profit for a video) Tj T* 0 Tw .675037 Tw (game which has high valuation consumers, whereas it only generates small gain in profit for a video game which) Tj T* 0 Tw .183569 Tw (has only low valuation consumers. In some extreme cases, the existence of the used game market can, interestingly) Tj T* 0 Tw 2.200245 Tw (enough, make a video game more profitable by increasing consumers' willingness to pay. The findings have) Tj T* 0 Tw (implications for marketing theory and managerial practice on pricing and on how a firm manages the resale market.) Tj T* ET
+BT 1 0 0 1 0 102.9 Tm /F1 10.5 Tf 12.6 TL 1.039621 Tw (I develop a dynamic structural model of how the used goods market for video games impacts firms' pricing and) Tj T* 0 Tw .118917 Tw (profits. I simulate profit changes when resale is prohibited, e.g., through digital distribution of the product. Without) Tj T* 0 Tw 1.433687 Tw (used goods sales data, I incorporate the supply side equilibrium in the estimation, and infer sales volume from) Tj T* 0 Tw .783922 Tw (observed prices and equilibrium conditions. Using data collected from an online retailer, I find that the effects of) Tj T* 0 Tw .021845 Tw (prohibiting resale depend on the video game's demand function: the prohibition significantly increases the profit for) Tj T* 0 Tw .378667 Tw (a video game which has high valuation consumers, whereas it only generates small gain in profit for a video game) Tj T* 0 Tw 1.762275 Tw (which has only low valuation consumers. In some extreme cases, the existence of the used game market can,) Tj T* 0 Tw .021845 Tw (interestingly enough, make a video game more profitable by increasing consumers' willingness to pay. The findings) Tj T* 0 Tw (have implications for managerial practice on pricing and on how a firm manages the resale market.) Tj T* ET
 Q
 Q
 q
@@ -884,7 +884,7 @@ q
 1 0 0 1 62.69291 66.3126 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 90.3 Tm /F1 10.5 Tf 12.6 TL .355655 Tw (Consumers' uncertainty about product quality may mitigate their tendency to seek variety in hedonic consumption.) Tj T* 0 Tw .595145 Tw (Exposure to online ratings is likely to alleviate this uncertainty, facilitating more variety-seeking. In this research,) Tj T* 0 Tw .853537 Tw (we examine \(a\) the extent to which consumers seek variety in hedonic consumption and \(b\) the impact of online) Tj T* 0 Tw .512871 Tw (consumer ratings on their choices. I use large movie ticket sales data \(5 million observations\) to estimate a choice) Tj T* 0 Tw 1.017155 Tw (model which incorporates state dependence, genre preferences of consumers, and the impact of online consumer) Tj T* 0 Tw .934037 Tw (ratings. I find that consumers display inertia in genre choice, but quality signals can overcome the inertia, as the) Tj T* 0 Tw 1.372121 Tw (impact of online ratings are higher when the genre of the subsequent movie differs from that of the previously) Tj T* 0 Tw (viewed one.) Tj T* ET
+BT 1 0 0 1 0 90.3 Tm /F1 10.5 Tf 12.6 TL .723155 Tw (Many experiential products are characterized by single consumption episodes and hedonic nature. In this context,) Tj T* 0 Tw .231905 Tw (consumers' uncertainty about product quality may mitigate their tendency to seek variety for hedonic consumption.) Tj T* 0 Tw .364299 Tw (We examine \(a\) the extent to which consumers seek variety and \(b\) the impact of online consumer ratings on their) Tj T* 0 Tw .423216 Tw (choices. I use large movie ticket sales data \(5 million observations\) to estimate a choice model which incorporates) Tj T* 0 Tw .032948 Tw (state dependence, genre preferences of consumers, and the impact of online consumer ratings. I find that consumers) Tj T* 0 Tw .091145 Tw (show time-dependent variety seeking behavior; consumers seek variety in genre choice in short time interval, while) Tj T* 0 Tw 1.023569 Tw (in general displaying inertia. Quality signals can overcome the inertia, as the impact of online ratings are higher) Tj T* 0 Tw (when the genre of the subsequent movie differs from that of the previously viewed one.) Tj T* ET
 Q
 Q
 q
@@ -2746,22 +2746,22 @@ xref
 0000011727 00000 n
 0000011882 00000 n
 0000012015 00000 n
-0000018855 00000 n
-0000026844 00000 n
-0000039576 00000 n
-0000048616 00000 n
-0000048748 00000 n
-0000048825 00000 n
-0000048902 00000 n
-0000048979 00000 n
+0000018919 00000 n
+0000026908 00000 n
+0000039640 00000 n
+0000048680 00000 n
+0000048812 00000 n
+0000048889 00000 n
+0000048966 00000 n
+0000049043 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\262\343A\204V\272\037\003\257\225\266\325\313\247&v) (\262\343A\204V\272\037\003\257\225\266\325\313\247&v)] 
+ [(<\235\002T\003V_jzWs\324\266\254I\336) (<\235\002T\003V_jzWs\324\266\254I\336)] 
 
  /Info 21 0 R
  /Root 20 0 R
  /Size 58 >>
 startxref
-49026
+49090
 %%EOF
