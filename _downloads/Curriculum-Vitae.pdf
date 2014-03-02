@@ -97,9 +97,9 @@ endobj
  0
  0 ]
  /Rect [ 181.9539
- 553.8241
+ 538.8241
  347.2399
- 565.8241 ]
+ 550.8241 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -112,9 +112,9 @@ endobj
  0
  0 ]
  /Rect [ 352.7399
- 553.8241
+ 538.8241
  374.7399
- 565.8241 ]
+ 550.8241 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -127,9 +127,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 321.7841
+ 306.7841
  140.7039
- 333.7841 ]
+ 318.7841 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -142,9 +142,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 306.7841
+ 291.7841
  197.8489
- 318.7841 ]
+ 303.7841 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -157,9 +157,9 @@ endobj
  0
  0 ]
  /Rect [ 326.4719
- 237.6041
+ 222.6041
  415.6709
- 249.6041 ]
+ 234.6041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -298,7 +298,7 @@ endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140301224918+06'00')
+ /CreationDate (D:20140301225220+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -486,7 +486,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 586.3791
+ 571.3791
  0 ]
  /Next 38 0 R
  /Parent 22 0 R
@@ -499,7 +499,7 @@ endobj
  /Dest [ 13 0 R
  /XYZ
  62.69291
- 412.1991
+ 397.1991
  0 ]
  /First 39 0 R
  /Last 39 0 R
@@ -513,7 +513,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 353.0191
+ 338.0191
  0 ]
  /Parent 38 0 R
  /Title (Software Packages Authored) >>
@@ -523,7 +523,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 285.1591
+ 270.1591
  0 ]
  /Next 41 0 R
  /Parent 22 0 R
@@ -1192,7 +1192,7 @@ endobj
 % 'R45': class PDFStream 
 45 0 obj
 % page stream
-<< /Length 9322 >>
+<< /Length 9715 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1222,7 +1222,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Erasmus University, Rotterdam, Netherlands) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Tulane University, New Orleans, LA, 2014) Tj T* ET
 Q
 Q
 q
@@ -1246,7 +1246,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Ko\347 University, Istanbul, Turkey) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Yale University, New Haven, CT, 2013) Tj T* ET
 Q
 Q
 q
@@ -1270,7 +1270,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (\326zyegin University, Istanbul, Turkey) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Erasmus University, Rotterdam, Netherlands, 2013) Tj T* ET
 Q
 Q
 q
@@ -1294,7 +1294,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Arizona, Tucson, AZ) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Rochester, Rochester, NY, 2013) Tj T* ET
 Q
 Q
 q
@@ -1318,7 +1318,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Delaware, Newark, DE) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Delaware, Newark, DE, 2013) Tj T* ET
 Q
 Q
 q
@@ -1342,7 +1342,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Rochester, Rochester, NY) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (\326zyegin University, Istanbul, Turkey, 2013) Tj T* ET
 Q
 Q
 q
@@ -1366,32 +1366,56 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Yale University, New Haven, CT) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Ko\347 University, Istanbul, Turkey, 2013) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 609.3791 cm
+1 0 0 1 62.69291 608.3791 cm
 Q
 q
-1 0 0 1 62.69291 586.3791 cm
+1 0 0 1 62.69291 599.3791 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
 Q
 q
-1 0 0 1 62.69291 571.1991 cm
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (University of Arizona, Tucson, AZ, 2013) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 594.3791 cm
+Q
+q
+1 0 0 1 62.69291 571.3791 cm
+Q
+q
+1 0 0 1 62.69291 556.1991 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Honors & Awards) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 566.1991 cm
+1 0 0 1 62.69291 551.1991 cm
 Q
 q
-1 0 0 1 62.69291 566.1991 cm
+1 0 0 1 62.69291 551.1991 cm
 Q
 q
-1 0 0 1 62.69291 557.1991 cm
+1 0 0 1 62.69291 542.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1411,10 +1435,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 551.1991 cm
+1 0 0 1 62.69291 536.1991 cm
 Q
 q
-1 0 0 1 62.69291 542.1991 cm
+1 0 0 1 62.69291 527.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1435,10 +1459,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 536.1991 cm
+1 0 0 1 62.69291 521.1991 cm
 Q
 q
-1 0 0 1 62.69291 515.1991 cm
+1 0 0 1 62.69291 500.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1453,30 +1477,6 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 2.269772 Tw (Funding, Columbia-Duke-UCLA Workshop on Quantitative Marketing and Structural Econometrics,) Tj T* 0 Tw (2010) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 509.1991 cm
-Q
-q
-1 0 0 1 62.69291 500.1991 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Brain Korea 21 Scholarship, Ministry of Education and Human Resources Development, Korea, 2006) Tj T* ET
 Q
 Q
 q
@@ -1500,7 +1500,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Graduate School Department Scholarship, Sogang University, Korea, 2005) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Brain Korea 21 Scholarship, Ministry of Education and Human Resources Development, Korea, 2006) Tj T* ET
 Q
 Q
 q
@@ -1524,7 +1524,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Undergraduate Distinguished Student Scholarship, Sogang University, Korea, 2003-04) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Graduate School Department Scholarship, Sogang University, Korea, 2005) Tj T* ET
 Q
 Q
 q
@@ -1547,7 +1547,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (KT) Tj (&) Tj (G Marketing League, Selection for Final Contest \(Tourism Marketing Strategy Proposal\), 2003) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Undergraduate Distinguished Student Scholarship, Sogang University, Korea, 2003-04) Tj T* ET
 Q
 Q
 q
@@ -1570,6 +1571,29 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
+BT 1 0 0 1 0 1 Tm 12 TL /F1 11 Tf 0 0 0 rg (KT) Tj (&) Tj (G Marketing League, Selection for Final Contest \(Tourism Marketing Strategy Proposal\), 2003) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 434.1991 cm
+Q
+q
+1 0 0 1 62.69291 425.1991 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (ON Korea Internet Marketing Awards, Bronze Award \(Online Marketing Strategy Proposal\), 2003) Tj T* ET
 Q
@@ -1578,25 +1602,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 435.1991 cm
+1 0 0 1 62.69291 420.1991 cm
 Q
 q
-1 0 0 1 62.69291 412.1991 cm
+1 0 0 1 62.69291 397.1991 cm
 Q
 q
-1 0 0 1 62.69291 397.0191 cm
+1 0 0 1 62.69291 382.0191 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Computational Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 392.0191 cm
+1 0 0 1 62.69291 377.0191 cm
 Q
 q
-1 0 0 1 62.69291 392.0191 cm
+1 0 0 1 62.69291 377.0191 cm
 Q
 q
-1 0 0 1 62.69291 383.0191 cm
+1 0 0 1 62.69291 368.0191 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1617,10 +1641,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 377.0191 cm
+1 0 0 1 62.69291 362.0191 cm
 Q
 q
-1 0 0 1 62.69291 368.0191 cm
+1 0 0 1 62.69291 353.0191 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1641,25 +1665,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 363.0191 cm
+1 0 0 1 62.69291 348.0191 cm
 Q
 q
-1 0 0 1 62.69291 363.0191 cm
+1 0 0 1 62.69291 348.0191 cm
 Q
 q
-1 0 0 1 62.69291 339.1591 cm
+1 0 0 1 62.69291 324.1591 cm
 q
 BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Software Packages Authored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 334.1591 cm
+1 0 0 1 62.69291 319.1591 cm
 Q
 q
-1 0 0 1 62.69291 334.1591 cm
+1 0 0 1 62.69291 319.1591 cm
 Q
 q
-1 0 0 1 62.69291 325.1591 cm
+1 0 0 1 62.69291 310.1591 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1679,10 +1703,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 319.1591 cm
+1 0 0 1 62.69291 304.1591 cm
 Q
 q
-1 0 0 1 62.69291 310.1591 cm
+1 0 0 1 62.69291 295.1591 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1702,25 +1726,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 305.1591 cm
+1 0 0 1 62.69291 290.1591 cm
 Q
 q
-1 0 0 1 62.69291 285.1591 cm
+1 0 0 1 62.69291 270.1591 cm
 Q
 q
-1 0 0 1 62.69291 269.9791 cm
+1 0 0 1 62.69291 254.9791 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Service) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 264.9791 cm
+1 0 0 1 62.69291 249.9791 cm
 Q
 q
-1 0 0 1 62.69291 264.9791 cm
+1 0 0 1 62.69291 249.9791 cm
 Q
 q
-1 0 0 1 62.69291 255.9791 cm
+1 0 0 1 62.69291 240.9791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1741,10 +1765,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 249.9791 cm
+1 0 0 1 62.69291 234.9791 cm
 Q
 q
-1 0 0 1 62.69291 240.9791 cm
+1 0 0 1 62.69291 225.9791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1764,13 +1788,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 235.9791 cm
+1 0 0 1 62.69291 220.9791 cm
 Q
 q
-1 0 0 1 62.69291 215.9791 cm
+1 0 0 1 62.69291 200.9791 cm
 Q
 q
-1 0 0 1 62.69291 215.9791 cm
+1 0 0 1 62.69291 200.9791 cm
 Q
  
 endstream
@@ -2147,20 +2171,20 @@ xref
 0000010834 00000 n
 0000017738 00000 n
 0000025727 00000 n
-0000035148 00000 n
-0000039718 00000 n
-0000039850 00000 n
-0000039927 00000 n
-0000040004 00000 n
-0000040081 00000 n
+0000035541 00000 n
+0000040111 00000 n
+0000040243 00000 n
+0000040320 00000 n
+0000040397 00000 n
+0000040474 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(`\006\317\031p\360\265"\373A\016t\234,\210\214) (`\006\317\031p\360\265"\373A\016t\234,\210\214)] 
+ [(\342\015L\221\236*n\206\000;\263\264D/\235\027) (\342\015L\221\236*n\206\000;\263\264D/\235\027)] 
 
  /Info 21 0 R
  /Root 20 0 R
  /Size 52 >>
 startxref
-40128
+40521
 %%EOF
