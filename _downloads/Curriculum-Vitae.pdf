@@ -53,12 +53,12 @@ endobj
 6 0 obj
 % Page dictionary
 << /Annots [ 4 0 R ]
- /Contents 49 0 R
+ /Contents 43 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 48 0 R
+ /Parent 42 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -72,12 +72,12 @@ endobj
 % 'Page2': class PDFPage 
 7 0 obj
 % Page dictionary
-<< /Contents 50 0 R
+<< /Contents 44 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 48 0 R
+ /Parent 42 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -118,17 +118,65 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page3': class PDFPage 
+% 'Annot.NUMBER4': class PDFDictionary 
 10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/joonro/BLP-Python) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 321.7841
+ 140.7039
+ 333.7841 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/joonro/fast-cubic-spline-python) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 306.7841
+ 197.8489
+ 318.7841 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://software-carpentry.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 326.4719
+ 237.6041
+ 415.6709
+ 249.6041 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+13 0 obj
 % Page dictionary
 << /Annots [ 8 0 R
- 9 0 R ]
- /Contents 51 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R ]
+ /Contents 45 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 48 0 R
+ /Parent 42 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -139,51 +187,6 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/joonro/BLP-Python) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 85.69291
- 535.1041
- 140.7039
- 547.1041 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER5': class PDFDictionary 
-12 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/joonro/fast-cubic-spline-python) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 85.69291
- 520.1041
- 197.8489
- 532.1041 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER6': class PDFDictionary 
-13 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://software-carpentry.org/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 326.4719
- 450.9241
- 415.6709
- 462.9241 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 % 'Annot.NUMBER7': class PDFDictionary 
 14 0 obj
 << /A << /S /URI
@@ -193,9 +196,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 326.7441
+ 631.0041
  293.7614
- 338.7441 ]
+ 643.0041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -208,9 +211,9 @@ endobj
  0
  0 ]
  /Rect [ 305.7614
- 326.7441
+ 631.0041
  543.3071
- 338.7441 ]
+ 643.0041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -223,9 +226,9 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 242.7441
+ 547.0041
  293.7614
- 254.7441 ]
+ 559.0041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -238,9 +241,9 @@ endobj
  0
  0 ]
  /Rect [ 305.7614
- 242.7441
+ 547.0041
  543.3071
- 254.7441 ]
+ 559.0041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -253,29 +256,26 @@ endobj
  0
  0 ]
  /Rect [ 68.69291
- 170.7441
+ 475.0041
  293.7614
- 182.7441 ]
+ 487.0041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
 19 0 obj
 % Page dictionary
-<< /Annots [ 11 0 R
- 12 0 R
- 13 0 R
- 14 0 R
+<< /Annots [ 14 0 R
  15 0 R
  16 0 R
  17 0 R
  18 0 R ]
- /Contents 52 0 R
+ /Contents 46 0 R
  /MediaBox [ 0
  0
  612
  792 ]
- /Parent 48 0 R
+ /Parent 42 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -290,15 +290,15 @@ endobj
 20 0 obj
 % Document Root
 << /Outlines 22 0 R
- /PageLabels 53 0 R
+ /PageLabels 47 0 R
  /PageMode /UseNone
- /Pages 48 0 R
+ /Pages 42 0 R
  /Type /Catalog >>
 endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140228140845+06'00')
+ /CreationDate (D:20140301224918+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -307,9 +307,9 @@ endobj
 endobj
 % 'R22': class PDFOutlines 
 22 0 obj
-<< /Count 30
+<< /Count 22
  /First 23 0 R
- /Last 47 0 R
+ /Last 41 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
@@ -350,7 +350,7 @@ endobj
  /Prev 24 0 R
  /Title (Working Papers) >>
 endobj
-% 'Outline.26.0': class OutlineEntryObject 
+% 'Outline.20.0': class OutlineEntryObject 
 26 0 obj
 << /Dest [ 6 0 R
  /XYZ
@@ -361,7 +361,7 @@ endobj
  /Parent 25 0 R
  /Title (\376\377\000P\000r\000i\000c\000i\000n\000g\000 \000a\000n\000d\000 \000R\000e\000s\000a\000l\000e\000 \000M\000a\000r\000k\000e\000t\000 \000S\000t\000r\000a\000t\000e\000g\000y\000 \000f\000o\000r\000 \000D\000u\000r\000a\000b\000l\000e\000\012\000G\000o\000o\000d\000s\000:\000 \000A\000 \000D\000y\000n\000a\000m\000i\000c\000 \000E\000q\000u\000i\000l\000i\000b\000r\000i\000u\000m\000 \000M\000o\000d\000e\000l\000 \000o\000f\000 \000V\000i\000d\000e\000o\000 \000G\000a\000m\000e\000s) >>
 endobj
-% 'Outline.26.1': class OutlineEntryObject 
+% 'Outline.20.1': class OutlineEntryObject 
 27 0 obj
 << /Dest [ 6 0 R
  /XYZ
@@ -387,7 +387,7 @@ endobj
  /Prev 25 0 R
  /Title (Working Projects) >>
 endobj
-% 'Outline.27.0': class OutlineEntryObject 
+% 'Outline.21.0': class OutlineEntryObject 
 29 0 obj
 << /Dest [ 7 0 R
  /XYZ
@@ -398,7 +398,7 @@ endobj
  /Parent 28 0 R
  /Title (A Model of Downloadable Contents: Add-ons and the Used Goods Market) >>
 endobj
-% 'Outline.27.1': class OutlineEntryObject 
+% 'Outline.21.1': class OutlineEntryObject 
 30 0 obj
 << /Dest [ 7 0 R
  /XYZ
@@ -410,7 +410,7 @@ endobj
  /Prev 29 0 R
  /Title (\376\377\000M\000e\000a\000s\000u\000r\000i\000n\000g\000 \000t\000h\000e\000 \000B\000e\000n\000e\000f\000i\000t\000s\000 \000o\000f\000 \000F\000r\000e\000e\000 \000T\000r\000a\000d\000e\000 \000A\000g\000r\000e\000e\000m\000e\000n\000t\000s\000:\000 \000A\000\012\000D\000y\000n\000a\000m\000i\000c\000 \000S\000t\000r\000u\000c\000t\000u\000r\000a\000l\000 \000A\000p\000p\000r\000o\000a\000c\000h) >>
 endobj
-% 'Outline.27.2': class OutlineEntryObject 
+% 'Outline.21.2': class OutlineEntryObject 
 31 0 obj
 << /Dest [ 7 0 R
  /XYZ
@@ -471,7 +471,7 @@ endobj
 endobj
 % 'Outline.8': class OutlineEntryObject 
 36 0 obj
-<< /Dest [ 10 0 R
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  733.5591
@@ -483,7 +483,7 @@ endobj
 endobj
 % 'Outline.9': class OutlineEntryObject 
 37 0 obj
-<< /Dest [ 10 0 R
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  586.3791
@@ -495,138 +495,64 @@ endobj
 endobj
 % 'Outline.10': class OutlineEntryObject 
 38 0 obj
-<< /Count 3
- /Dest [ 10 0 R
+<< /Count 1
+ /Dest [ 13 0 R
  /XYZ
  62.69291
  412.1991
  0 ]
  /First 39 0 R
- /Last 41 0 R
- /Next 42 0 R
+ /Last 39 0 R
+ /Next 40 0 R
  /Parent 22 0 R
  /Prev 37 0 R
- /Title (Selected Courses) >>
+ /Title (Computational Skills) >>
 endobj
-% 'Outline.28.0': class OutlineEntryObject 
+% 'Outline.22.0': class OutlineEntryObject 
 39 0 obj
-<< /Dest [ 10 0 R
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
- 387.0191
- 0 ]
- /Next 40 0 R
- /Parent 38 0 R
- /Title (Marketing) >>
-endobj
-% 'Outline.28.1': class OutlineEntryObject 
-40 0 obj
-<< /Dest [ 10 0 R
- /XYZ
- 62.69291
- 269.1591
- 0 ]
- /Next 41 0 R
- /Parent 38 0 R
- /Prev 39 0 R
- /Title (Econometrics) >>
-endobj
-% 'Outline.28.2': class OutlineEntryObject 
-41 0 obj
-<< /Dest [ 10 0 R
- /XYZ
- 62.69291
- 166.2991
+ 353.0191
  0 ]
  /Parent 38 0 R
- /Prev 40 0 R
- /Title (Economics) >>
+ /Title (Software Packages Authored) >>
 endobj
 % 'Outline.11': class OutlineEntryObject 
-42 0 obj
-<< /Count 1
- /Dest [ 19 0 R
+40 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 285.1591
+ 0 ]
+ /Next 41 0 R
+ /Parent 22 0 R
+ /Prev 38 0 R
+ /Title (Service) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 19 0 R
  /XYZ
  62.69291
  733.5591
  0 ]
- /First 43 0 R
- /Last 43 0 R
- /Next 44 0 R
  /Parent 22 0 R
- /Prev 38 0 R
- /Title (Selected Courses cont.) >>
-endobj
-% 'Outline.29.0': class OutlineEntryObject 
-43 0 obj
-<< /Dest [ 19 0 R
- /XYZ
- 62.69291
- 708.3791
- 0 ]
- /Parent 42 0 R
- /Title (Operations Research) >>
-endobj
-% 'Outline.12': class OutlineEntryObject 
-44 0 obj
-<< /Count 1
- /Dest [ 19 0 R
- /XYZ
- 62.69291
- 625.5191
- 0 ]
- /First 45 0 R
- /Last 45 0 R
- /Next 46 0 R
- /Parent 22 0 R
- /Prev 42 0 R
- /Title (Computational Skills) >>
-endobj
-% 'Outline.30.0': class OutlineEntryObject 
-45 0 obj
-<< /Dest [ 19 0 R
- /XYZ
- 62.69291
- 566.3391
- 0 ]
- /Parent 44 0 R
- /Title (Software Packages Authored) >>
-endobj
-% 'Outline.13': class OutlineEntryObject 
-46 0 obj
-<< /Dest [ 19 0 R
- /XYZ
- 62.69291
- 498.4791
- 0 ]
- /Next 47 0 R
- /Parent 22 0 R
- /Prev 44 0 R
- /Title (Service) >>
-endobj
-% 'Outline.14': class OutlineEntryObject 
-47 0 obj
-<< /Dest [ 19 0 R
- /XYZ
- 62.69291
- 429.2991
- 0 ]
- /Parent 22 0 R
- /Prev 46 0 R
+ /Prev 40 0 R
  /Title (References) >>
 endobj
-% 'R48': class PDFPages 
-48 0 obj
+% 'R42': class PDFPages 
+42 0 obj
 % page tree
 << /Count 4
  /Kids [ 6 0 R
  7 0 R
- 10 0 R
+ 13 0 R
  19 0 R ]
  /Type /Pages >>
 endobj
-% 'R49': class PDFStream 
-49 0 obj
+% 'R43': class PDFStream 
+43 0 obj
 % page stream
 << /Length 6805 >>
 stream
@@ -893,8 +819,8 @@ Q
  
 endstream
 endobj
-% 'R50': class PDFStream 
-50 0 obj
+% 'R44': class PDFStream 
+44 0 obj
 % page stream
 << /Length 7890 >>
 stream
@@ -1263,10 +1189,10 @@ Q
  
 endstream
 endobj
-% 'R51': class PDFStream 
-51 0 obj
+% 'R45': class PDFStream 
+45 0 obj
 % page stream
-<< /Length 12632 >>
+<< /Length 9322 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1660,548 +1586,17 @@ Q
 q
 1 0 0 1 62.69291 397.0191 cm
 q
-BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Selected Courses) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 373.1591 cm
-q
-BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Marketing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 368.1591 cm
-Q
-q
-1 0 0 1 62.69291 368.1591 cm
-Q
-q
-1 0 0 1 62.69291 359.1591 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Buyer Behavior \(Ying Zhang\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 353.1591 cm
-Q
-q
-1 0 0 1 62.69291 344.1591 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Models I \(Frenkel Ter Hofstede\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 338.1591 cm
-Q
-q
-1 0 0 1 62.69291 329.1591 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Models II \(Jason Duan\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 323.1591 cm
-Q
-q
-1 0 0 1 62.69291 314.1591 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Research Methods \(Raghunath S. Rao\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 308.1591 cm
-Q
-q
-1 0 0 1 62.69291 299.1591 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Marketing Strategy \(Raji Srinivasan\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 293.1591 cm
-Q
-q
-1 0 0 1 62.69291 284.1591 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (2010 Columbia-Duke-UCLA Workshop on Quantitative Marketing and Structural Econometrics) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 279.1591 cm
-Q
-q
-1 0 0 1 62.69291 255.2991 cm
-q
-BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Econometrics) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 250.2991 cm
-Q
-q
-1 0 0 1 62.69291 250.2991 cm
-Q
-q
-1 0 0 1 62.69291 241.2991 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Econometrics I \(Stephen Donald\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 235.2991 cm
-Q
-q
-1 0 0 1 62.69291 226.2991 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Econometrics II \(Jason Abrevaya\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 220.2991 cm
-Q
-q
-1 0 0 1 62.69291 211.2991 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Econometrics III \(Russell W. Cooper, Eugenio J. Miravete\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 205.2991 cm
-Q
-q
-1 0 0 1 62.69291 196.2991 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Bayesian Econometrics \(Rob McCulloch\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 190.2991 cm
-Q
-q
-1 0 0 1 62.69291 181.2991 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Discrete Choice Theory and Modeling \(Chandra Bhat\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 176.2991 cm
-Q
-q
-1 0 0 1 62.69291 152.4391 cm
-q
-BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Economics) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 147.4391 cm
-Q
-q
-1 0 0 1 62.69291 147.4391 cm
-Q
-q
-1 0 0 1 62.69291 138.4391 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Microeconomics I \(Thomas Wiseman\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 132.4391 cm
-Q
-q
-1 0 0 1 62.69291 123.4391 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Microeconomics II \(Svetlana Boyarchenko\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 117.4391 cm
-Q
-q
-1 0 0 1 62.69291 108.4391 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Industrial Organization I \(Kenneth Hendricks\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 102.4391 cm
-Q
-q
-1 0 0 1 62.69291 93.43906 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Industrial Organization II \(Eugenio J. Miravete\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 87.43906 cm
-Q
-q
-1 0 0 1 62.69291 78.43906 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Empirical IO Lecture Series \(Amil Petrin, Ali Hortascu, Daniel Ackerberg\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 73.43906 cm
-Q
-q
-1 0 0 1 62.69291 73.43906 cm
-Q
- 
-endstream
-endobj
-% 'R52': class PDFStream 
-52 0 obj
-% page stream
-<< /Length 8937 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 718.3791 cm
-q
-BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Selected Courses cont.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 694.5191 cm
-q
-BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Operations Research) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 689.5191 cm
-Q
-q
-1 0 0 1 62.69291 689.5191 cm
-Q
-q
-1 0 0 1 62.69291 680.5191 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Applied Stochastic Processes \(John Hasenbein\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 674.5191 cm
-Q
-q
-1 0 0 1 62.69291 665.5191 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Markov Decision Processes \(John Hasenbein\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 659.5191 cm
-Q
-q
-1 0 0 1 62.69291 650.5191 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Stochastic Optimization \(David Morton\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 645.5191 cm
-Q
-q
-1 0 0 1 62.69291 625.5191 cm
-Q
-q
-1 0 0 1 62.69291 610.3391 cm
-q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Computational Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 605.3391 cm
+1 0 0 1 62.69291 392.0191 cm
 Q
 q
-1 0 0 1 62.69291 605.3391 cm
+1 0 0 1 62.69291 392.0191 cm
 Q
 q
-1 0 0 1 62.69291 596.3391 cm
+1 0 0 1 62.69291 383.0191 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2222,10 +1617,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 590.3391 cm
+1 0 0 1 62.69291 377.0191 cm
 Q
 q
-1 0 0 1 62.69291 581.3391 cm
+1 0 0 1 62.69291 368.0191 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2246,25 +1641,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 576.3391 cm
+1 0 0 1 62.69291 363.0191 cm
 Q
 q
-1 0 0 1 62.69291 576.3391 cm
+1 0 0 1 62.69291 363.0191 cm
 Q
 q
-1 0 0 1 62.69291 552.4791 cm
+1 0 0 1 62.69291 339.1591 cm
 q
 BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Software Packages Authored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 547.4791 cm
+1 0 0 1 62.69291 334.1591 cm
 Q
 q
-1 0 0 1 62.69291 547.4791 cm
+1 0 0 1 62.69291 334.1591 cm
 Q
 q
-1 0 0 1 62.69291 538.4791 cm
+1 0 0 1 62.69291 325.1591 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2284,10 +1679,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 532.4791 cm
+1 0 0 1 62.69291 319.1591 cm
 Q
 q
-1 0 0 1 62.69291 523.4791 cm
+1 0 0 1 62.69291 310.1591 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2307,25 +1702,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 518.4791 cm
+1 0 0 1 62.69291 305.1591 cm
 Q
 q
-1 0 0 1 62.69291 498.4791 cm
+1 0 0 1 62.69291 285.1591 cm
 Q
 q
-1 0 0 1 62.69291 483.2991 cm
+1 0 0 1 62.69291 269.9791 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Service) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 478.2991 cm
+1 0 0 1 62.69291 264.9791 cm
 Q
 q
-1 0 0 1 62.69291 478.2991 cm
+1 0 0 1 62.69291 264.9791 cm
 Q
 q
-1 0 0 1 62.69291 469.2991 cm
+1 0 0 1 62.69291 255.9791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2346,10 +1741,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 463.2991 cm
+1 0 0 1 62.69291 249.9791 cm
 Q
 q
-1 0 0 1 62.69291 454.2991 cm
+1 0 0 1 62.69291 240.9791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2369,22 +1764,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 449.2991 cm
+1 0 0 1 62.69291 235.9791 cm
 Q
 q
-1 0 0 1 62.69291 429.2991 cm
+1 0 0 1 62.69291 215.9791 cm
 Q
 q
-1 0 0 1 62.69291 414.1191 cm
+1 0 0 1 62.69291 215.9791 cm
+Q
+ 
+endstream
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 4467 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 718.3791 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 408.1191 cm
+1 0 0 1 62.69291 712.3791 cm
 Q
 q
-1 0 0 1 62.69291 156.1191 cm
+1 0 0 1 62.69291 460.3791 cm
 1 1 1 rg
 n 0 252 486.6142 -84 re f*
 1 1 1 rg
@@ -2399,8 +1806,7 @@ Q
 q
 1 0 0 1 6 231 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Jason Duan) Tj T* ET
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf 0 0 0 rg (Jason Duan ) Tj /F1 11 Tf (\(Co-Chair\)) Tj T* ET
 Q
 Q
 q
@@ -2448,8 +1854,7 @@ Q
 q
 1 0 0 1 243.0684 231 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL (Leigh McAlister) Tj T* ET
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf 0 0 0 rg (Leigh McAlister ) Tj /F1 11 Tf (\(Co-Chair\)) Tj T* ET
 Q
 Q
 q
@@ -2653,49 +2058,49 @@ n 486.6142 0 m 486.6142 252 l S
 Q
 Q
 q
-1 0 0 1 62.69291 156.1191 cm
+1 0 0 1 62.69291 460.3791 cm
 Q
  
 endstream
 endobj
-% 'R53': class PDFPageLabels 
-53 0 obj
+% 'R47': class PDFPageLabels 
+47 0 obj
 % Document Root
 << /Nums [ 0
- 54 0 R
+ 48 0 R
  1
- 55 0 R
+ 49 0 R
  2
- 56 0 R
+ 50 0 R
  3
- 57 0 R ] >>
+ 51 0 R ] >>
 endobj
-% 'R54': class PDFPageLabel 
-54 0 obj
+% 'R48': class PDFPageLabel 
+48 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R55': class PDFPageLabel 
-55 0 obj
+% 'R49': class PDFPageLabel 
+49 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R56': class PDFPageLabel 
-56 0 obj
+% 'R50': class PDFPageLabel 
+50 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
-% 'R57': class PDFPageLabel 
-57 0 obj
+% 'R51': class PDFPageLabel 
+51 0 obj
 % None
 << /S /D
  /St 4 >>
 endobj
 xref
-0 58
+0 52
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -2706,16 +2111,16 @@ xref
 0000001268 00000 n
 0000001551 00000 n
 0000001807 00000 n
-0000002060 00000 n
-0000002372 00000 n
-0000002627 00000 n
-0000002896 00000 n
-0000003145 00000 n
-0000003398 00000 n
-0000003658 00000 n
-0000003916 00000 n
-0000004175 00000 n
-0000004403 00000 n
+0000002074 00000 n
+0000002329 00000 n
+0000002598 00000 n
+0000002833 00000 n
+0000003172 00000 n
+0000003425 00000 n
+0000003685 00000 n
+0000003943 00000 n
+0000004202 00000 n
+0000004430 00000 n
 0000004758 00000 n
 0000004917 00000 n
 0000005175 00000 n
@@ -2735,33 +2140,27 @@ xref
 0000009567 00000 n
 0000009756 00000 n
 0000009948 00000 n
-0000010185 00000 n
-0000010358 00000 n
-0000010549 00000 n
-0000010720 00000 n
-0000010963 00000 n
-0000011129 00000 n
-0000011370 00000 n
-0000011543 00000 n
-0000011727 00000 n
-0000011882 00000 n
-0000012015 00000 n
-0000018919 00000 n
-0000026908 00000 n
-0000039640 00000 n
-0000048680 00000 n
-0000048812 00000 n
-0000048889 00000 n
-0000048966 00000 n
-0000049043 00000 n
+0000010189 00000 n
+0000010362 00000 n
+0000010546 00000 n
+0000010701 00000 n
+0000010834 00000 n
+0000017738 00000 n
+0000025727 00000 n
+0000035148 00000 n
+0000039718 00000 n
+0000039850 00000 n
+0000039927 00000 n
+0000040004 00000 n
+0000040081 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\264!\306Zt\231V6\242\325\274w\333\205\205 ) (\264!\306Zt\231V6\242\325\274w\333\205\205 )] 
+ [(`\006\317\031p\360\265"\373A\016t\234,\210\214) (`\006\317\031p\360\265"\373A\016t\234,\210\214)] 
 
  /Info 21 0 R
  /Root 20 0 R
- /Size 58 >>
+ /Size 52 >>
 startxref
-49090
+40128
 %%EOF
