@@ -97,9 +97,9 @@ endobj
  0
  0 ]
  /Rect [ 181.9539
- 538.8241
+ 491.8241
  347.2399
- 550.8241 ]
+ 503.8241 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -112,9 +112,9 @@ endobj
  0
  0 ]
  /Rect [ 352.7399
- 538.8241
+ 491.8241
  374.7399
- 550.8241 ]
+ 503.8241 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -127,9 +127,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 306.7841
+ 259.7841
  140.7039
- 318.7841 ]
+ 271.7841 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -142,9 +142,9 @@ endobj
  0
  0 ]
  /Rect [ 85.69291
- 291.7841
+ 244.7841
  197.8489
- 303.7841 ]
+ 256.7841 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -157,9 +157,9 @@ endobj
  0
  0 ]
  /Rect [ 326.4719
- 222.6041
+ 175.6041
  415.6709
- 234.6041 ]
+ 187.6041 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -298,7 +298,7 @@ endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140301225220+06'00')
+ /CreationDate (D:20140329230816+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -474,7 +474,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 733.5591
+ 686.5591
  0 ]
  /Next 37 0 R
  /Parent 22 0 R
@@ -486,7 +486,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 571.3791
+ 524.3791
  0 ]
  /Next 38 0 R
  /Parent 22 0 R
@@ -499,7 +499,7 @@ endobj
  /Dest [ 13 0 R
  /XYZ
  62.69291
- 397.1991
+ 350.1991
  0 ]
  /First 39 0 R
  /Last 39 0 R
@@ -513,7 +513,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 338.0191
+ 291.0191
  0 ]
  /Parent 38 0 R
  /Title (Software Packages Authored) >>
@@ -523,7 +523,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 270.1591
+ 223.1591
  0 ]
  /Next 41 0 R
  /Parent 22 0 R
@@ -822,7 +822,7 @@ endobj
 % 'R44': class PDFStream 
 44 0 obj
 % page stream
-<< /Length 7890 >>
+<< /Length 7931 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1160,7 +1160,7 @@ q
 1 0 0 1 62.69291 147.0791 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.172098 Tw ("A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Durability Extension) Tj T* 0 Tw (for Video Games," INFORMS Marketing Science Conference, Boston, MA, 2012.) Tj T* ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL .633345 Tw ("Pricing and Resale Market Strategy for Durable Goods: A Dynamic Equilibrium Model of the Video Game) Tj T* 0 Tw (Market," UT Dallas Frontiers of Research in Marketing Science Conference, Dallas, TX, 2014.) Tj T* ET
 Q
 Q
 q
@@ -1170,7 +1170,7 @@ q
 1 0 0 1 62.69291 112.0791 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.172098 Tw ("A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Durability Extension) Tj T* 0 Tw (for Video Games," University of Houston Doctoral Symposium, 2012.) Tj T* ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.172098 Tw ("A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Durability Extension) Tj T* 0 Tw (for Video Games," INFORMS Marketing Science Conference, Boston, MA, 2012.) Tj T* ET
 Q
 Q
 q
@@ -1180,11 +1180,11 @@ q
 1 0 0 1 62.69291 77.07906 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL .748512 Tw ("Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie Industry," INFORMS) Tj T* 0 Tw (Marketing Science Conference, Houston, TX, 2011.) Tj T* ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL 1.172098 Tw ("A Dynamic Equilibrium Model of Durable Goods Market: Intertemporal Pricing and Durability Extension) Tj T* 0 Tw (for Video Games," University of Houston Doctoral Symposium, 2012.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 77.07906 cm
+1 0 0 1 62.69291 72.07906 cm
 Q
  
 endstream
@@ -1192,23 +1192,33 @@ endobj
 % 'R45': class PDFStream 
 45 0 obj
 % page stream
-<< /Length 9715 >>
+<< /Length 10026 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 718.3791 cm
+1 0 0 1 62.69291 709.5591 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL .748512 Tw ("Quality Uncertainty and Variety Seeking Behavior: the Role of Ratings in the Movie Industry," INFORMS) Tj T* 0 Tw (Marketing Science Conference, Houston, TX, 2011.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 686.5591 cm
+Q
+q
+1 0 0 1 62.69291 671.3791 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Invited Talks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 713.3791 cm
+1 0 0 1 62.69291 666.3791 cm
 Q
 q
-1 0 0 1 62.69291 713.3791 cm
+1 0 0 1 62.69291 666.3791 cm
 Q
 q
-1 0 0 1 62.69291 704.3791 cm
+1 0 0 1 62.69291 657.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1229,10 +1239,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 698.3791 cm
+1 0 0 1 62.69291 651.3791 cm
 Q
 q
-1 0 0 1 62.69291 689.3791 cm
+1 0 0 1 62.69291 642.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1253,10 +1263,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 683.3791 cm
+1 0 0 1 62.69291 636.3791 cm
 Q
 q
-1 0 0 1 62.69291 674.3791 cm
+1 0 0 1 62.69291 627.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1277,10 +1287,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 668.3791 cm
+1 0 0 1 62.69291 621.3791 cm
 Q
 q
-1 0 0 1 62.69291 659.3791 cm
+1 0 0 1 62.69291 612.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1301,10 +1311,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 653.3791 cm
+1 0 0 1 62.69291 606.3791 cm
 Q
 q
-1 0 0 1 62.69291 644.3791 cm
+1 0 0 1 62.69291 597.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1325,10 +1335,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 638.3791 cm
+1 0 0 1 62.69291 591.3791 cm
 Q
 q
-1 0 0 1 62.69291 629.3791 cm
+1 0 0 1 62.69291 582.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1349,10 +1359,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 623.3791 cm
+1 0 0 1 62.69291 576.3791 cm
 Q
 q
-1 0 0 1 62.69291 614.3791 cm
+1 0 0 1 62.69291 567.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1373,10 +1383,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 608.3791 cm
+1 0 0 1 62.69291 561.3791 cm
 Q
 q
-1 0 0 1 62.69291 599.3791 cm
+1 0 0 1 62.69291 552.3791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1397,25 +1407,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 594.3791 cm
+1 0 0 1 62.69291 547.3791 cm
 Q
 q
-1 0 0 1 62.69291 571.3791 cm
+1 0 0 1 62.69291 524.3791 cm
 Q
 q
-1 0 0 1 62.69291 556.1991 cm
+1 0 0 1 62.69291 509.1991 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Honors & Awards) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 551.1991 cm
+1 0 0 1 62.69291 504.1991 cm
 Q
 q
-1 0 0 1 62.69291 551.1991 cm
+1 0 0 1 62.69291 504.1991 cm
 Q
 q
-1 0 0 1 62.69291 542.1991 cm
+1 0 0 1 62.69291 495.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1435,10 +1445,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 536.1991 cm
+1 0 0 1 62.69291 489.1991 cm
 Q
 q
-1 0 0 1 62.69291 527.1991 cm
+1 0 0 1 62.69291 480.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1459,10 +1469,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 521.1991 cm
+1 0 0 1 62.69291 474.1991 cm
 Q
 q
-1 0 0 1 62.69291 500.1991 cm
+1 0 0 1 62.69291 453.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1483,10 +1493,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 494.1991 cm
+1 0 0 1 62.69291 447.1991 cm
 Q
 q
-1 0 0 1 62.69291 485.1991 cm
+1 0 0 1 62.69291 438.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1507,10 +1517,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 479.1991 cm
+1 0 0 1 62.69291 432.1991 cm
 Q
 q
-1 0 0 1 62.69291 470.1991 cm
+1 0 0 1 62.69291 423.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1531,10 +1541,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 464.1991 cm
+1 0 0 1 62.69291 417.1991 cm
 Q
 q
-1 0 0 1 62.69291 455.1991 cm
+1 0 0 1 62.69291 408.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1555,10 +1565,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 449.1991 cm
+1 0 0 1 62.69291 402.1991 cm
 Q
 q
-1 0 0 1 62.69291 440.1991 cm
+1 0 0 1 62.69291 393.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1578,10 +1588,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 434.1991 cm
+1 0 0 1 62.69291 387.1991 cm
 Q
 q
-1 0 0 1 62.69291 425.1991 cm
+1 0 0 1 62.69291 378.1991 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1602,25 +1612,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 420.1991 cm
+1 0 0 1 62.69291 373.1991 cm
 Q
 q
-1 0 0 1 62.69291 397.1991 cm
+1 0 0 1 62.69291 350.1991 cm
 Q
 q
-1 0 0 1 62.69291 382.0191 cm
+1 0 0 1 62.69291 335.0191 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Computational Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 377.0191 cm
+1 0 0 1 62.69291 330.0191 cm
 Q
 q
-1 0 0 1 62.69291 377.0191 cm
+1 0 0 1 62.69291 330.0191 cm
 Q
 q
-1 0 0 1 62.69291 368.0191 cm
+1 0 0 1 62.69291 321.0191 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1641,10 +1651,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 362.0191 cm
+1 0 0 1 62.69291 315.0191 cm
 Q
 q
-1 0 0 1 62.69291 353.0191 cm
+1 0 0 1 62.69291 306.0191 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1665,25 +1675,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 348.0191 cm
+1 0 0 1 62.69291 301.0191 cm
 Q
 q
-1 0 0 1 62.69291 348.0191 cm
+1 0 0 1 62.69291 301.0191 cm
 Q
 q
-1 0 0 1 62.69291 324.1591 cm
+1 0 0 1 62.69291 277.1591 cm
 q
 BT 1 0 0 1 0 2.31 Tm 13.86 TL /F3 11.55 Tf 0 0 0 rg (Software Packages Authored) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 319.1591 cm
+1 0 0 1 62.69291 272.1591 cm
 Q
 q
-1 0 0 1 62.69291 319.1591 cm
+1 0 0 1 62.69291 272.1591 cm
 Q
 q
-1 0 0 1 62.69291 310.1591 cm
+1 0 0 1 62.69291 263.1591 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1703,10 +1713,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 304.1591 cm
+1 0 0 1 62.69291 257.1591 cm
 Q
 q
-1 0 0 1 62.69291 295.1591 cm
+1 0 0 1 62.69291 248.1591 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1726,25 +1736,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 290.1591 cm
+1 0 0 1 62.69291 243.1591 cm
 Q
 q
-1 0 0 1 62.69291 270.1591 cm
+1 0 0 1 62.69291 223.1591 cm
 Q
 q
-1 0 0 1 62.69291 254.9791 cm
+1 0 0 1 62.69291 207.9791 cm
 q
 BT 1 0 0 1 0 2.53 Tm 15.18 TL /F2 12.65 Tf 0 0 0 rg (Service) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 249.9791 cm
+1 0 0 1 62.69291 202.9791 cm
 Q
 q
-1 0 0 1 62.69291 249.9791 cm
+1 0 0 1 62.69291 202.9791 cm
 Q
 q
-1 0 0 1 62.69291 240.9791 cm
+1 0 0 1 62.69291 193.9791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1765,10 +1775,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 234.9791 cm
+1 0 0 1 62.69291 187.9791 cm
 Q
 q
-1 0 0 1 62.69291 225.9791 cm
+1 0 0 1 62.69291 178.9791 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1788,13 +1798,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 220.9791 cm
+1 0 0 1 62.69291 173.9791 cm
 Q
 q
-1 0 0 1 62.69291 200.9791 cm
+1 0 0 1 62.69291 153.9791 cm
 Q
 q
-1 0 0 1 62.69291 200.9791 cm
+1 0 0 1 62.69291 153.9791 cm
 Q
  
 endstream
@@ -2170,21 +2180,21 @@ xref
 0000010701 00000 n
 0000010834 00000 n
 0000017738 00000 n
-0000025727 00000 n
-0000035541 00000 n
-0000040111 00000 n
-0000040243 00000 n
-0000040320 00000 n
-0000040397 00000 n
-0000040474 00000 n
+0000025768 00000 n
+0000035894 00000 n
+0000040464 00000 n
+0000040596 00000 n
+0000040673 00000 n
+0000040750 00000 n
+0000040827 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\342\015L\221\236*n\206\000;\263\264D/\235\027) (\342\015L\221\236*n\206\000;\263\264D/\235\027)] 
+ [(\331\024\016\231Y\325\022\001j\201\300m\031\003\004O) (\331\024\016\231Y\325\022\001j\201\300m\031\003\004O)] 
 
  /Info 21 0 R
  /Root 20 0 R
  /Size 52 >>
 startxref
-40521
+40874
 %%EOF
