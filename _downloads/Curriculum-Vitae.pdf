@@ -298,7 +298,7 @@ endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140329230816+06'00')
+ /CreationDate (D:20140527133336+06'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1192,7 +1192,7 @@ endobj
 % 'R45': class PDFStream 
 45 0 obj
 % page stream
-<< /Length 10026 >>
+<< /Length 10019 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1768,7 +1768,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Ad Hoc Reviewer: Journal of Open Research Software) Tj T* ET
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Reviewer: Journal of Open Research Software) Tj T* ET
 Q
 Q
 q
@@ -2181,20 +2181,20 @@ xref
 0000010834 00000 n
 0000017738 00000 n
 0000025768 00000 n
-0000035894 00000 n
-0000040464 00000 n
-0000040596 00000 n
-0000040673 00000 n
-0000040750 00000 n
-0000040827 00000 n
+0000035887 00000 n
+0000040457 00000 n
+0000040589 00000 n
+0000040666 00000 n
+0000040743 00000 n
+0000040820 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\331\024\016\231Y\325\022\001j\201\300m\031\003\004O) (\331\024\016\231Y\325\022\001j\201\300m\031\003\004O)] 
+ [(\210O\210\256\373\363I\302M\367v8M\232\201m) (\210O\210\256\373\363I\302M\367v8M\232\201m)] 
 
  /Info 21 0 R
  /Root 20 0 R
  /Size 52 >>
 startxref
-40874
+40867
 %%EOF
