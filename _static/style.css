@@ -1,3 +1,16 @@
+p {
+  /* line-height: 32px; */   /* within paragraph */
+  margin-bottom: 20px; /* between paragraphs */
+  }
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
 .cv-name {
     font-weight: bold;
     text-align: center;
@@ -7,3 +20,4 @@
 .cv-contact {
     text-align: center;
 }
+
